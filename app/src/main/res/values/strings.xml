@@ -88,8 +88,9 @@
     <string name="exit"> Do you want to close the app?</string>
     <string name="robotocondensed_regular">RobotoCondensed-Regular</string>
     <string name="King_Rom_Apps">King Rom Apps</string>
-    <string name="ks7info">Download Mod and Tweaks for KING ROM</string>
+    <string name="ks8info">Download Mod and Tweaks for KING ROM</string>
     <string name="minitbatteryinfo">Manage Battery Icon in StatusBar</string>
+    <string name="minitclockinfo">Manage Clock Icon in StatusBar</string>
     <string name="otainfo">Manage OTA Updater</string>
     <string name="app_utili">Useful Apps</string>
     <string name="phoneinfo">Info About Phone</string>
