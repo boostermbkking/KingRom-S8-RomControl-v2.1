@@ -213,6 +213,17 @@
 
     <string name="taptolanchapp">Tap to launch app</string>
     <string name="TapClockLauncherisdisabled">Tap Clock Launcher is disabled</string>
+    <string name="fingerprint">Allow Fingerprint after Reboot</string>
+    <string name="fingerprint_title">Fingerprint</string>
+    <string name="VisibleTogglesShown_title">Toggles</string>
+    <string name="VisibleTogglesShown">Visible Toggles Shown</string>
+    <string name="Numbershownonscreen">Number shown on screen</string>
+    <string name="CustomIcons">CustomIcons</string>
+    <string name="WifiarrowChooser">Wifi Arrow Chooser</string>
+    <string name="Wifiiconchooser">Wifi Icon Chooser</string>
+    <string name="Signalchooser">Signal Chooser</string>
+    <string name="Signalchooser2">Signal Chooser Sim 2</string>
+    <string name="AlarmIconChooser">Alarm Icon Chooser</string>
 
     <!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>
