@@ -6,6 +6,7 @@ import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
@@ -18,6 +19,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Toast;
 
 import com.boostermbkking.kingrommods.v2.utils.BackupRestoreIntentService;
 import com.boostermbkking.kingrommods.v2.utils.Constants;
@@ -51,6 +53,9 @@ public class MainActivity extends AppCompatActivity
     private SharedPreferences mSharedPreferences;
     private ArrayList<Integer> mNavMenuItemsIds;
 
+    /** KS8pro boolean */
+    public boolean KS8pro = false;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -73,7 +78,37 @@ public class MainActivity extends AppCompatActivity
         setTitle(titles[lastFragmentIndex]);
         initViews();
 
+        /** boolean that return if KS8 PRO app is installed */
+        boolean isAppInstalled = appInstalledOrNot("com.boostermbkking.kingroms8");
+
+        /** condition for if is installed set boolean true else do nothing*/
+        if(isAppInstalled) {
+            KS8pro= true;
+            /** message for KS8 PRO Installed*/
+            Toast.makeText(getBaseContext(), getString(R.string.PROFeatures), Toast.LENGTH_LONG).show();
+
+
+    } else {
+
+            /** message for KS8 PRO NOT Installed */
+            Toast.makeText(getBaseContext(), getString(R.string.noPROFeatures), Toast.LENGTH_LONG).show();
+            Toast.makeText(getBaseContext(), getString(R.string.installKS8PRO), Toast.LENGTH_LONG).show();
+
+        }
     }
+
+    /** method to check if KS8 PRO app is installed */
+    private boolean appInstalledOrNot(String uri) {
+        PackageManager pm = getPackageManager();
+        try {
+            pm.getPackageInfo(uri, PackageManager.GET_ACTIVITIES);
+            return true;
+        } catch (PackageManager.NameNotFoundException e) {
+        }
+        return false;
+    }
+
+
 
     private void initViews() {
 
@@ -121,6 +156,10 @@ public class MainActivity extends AppCompatActivity
         alert.setPositiveButton(getString(R.string.yes), new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int which) {
+                Intent intent = new Intent(Intent.ACTION_MAIN);
+                intent.addCategory(Intent.CATEGORY_HOME);
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                startActivity(intent);
                 finish();
             }
         });
@@ -161,34 +200,42 @@ public class MainActivity extends AppCompatActivity
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
         int id = item.getItemId();
-        if (mNavMenuItemsIds.contains(id)) {
-            int index = mNavMenuItemsIds.indexOf(id);
-            loadPrefsFragment(getResources().getStringArray(R.array.nav_menu_xml_file_names)[index]);
-            setTitle(item.getTitle().toString());
-            mSharedPreferences.edit().putInt(Constants.LAST_FRAGMENT, index).apply();
-        } else {
-            switch (id) {
+            if (mNavMenuItemsIds.contains(id)) {
+                int index = mNavMenuItemsIds.indexOf(id);
+                    /** change menu based on boolean */
+                    if (KS8pro==true){
+                        loadPrefsFragment(getResources().getStringArray(R.array.nav_menu_xml_file_names_PRO)[index]);
+                        setTitle(item.getTitle().toString());
+                        mSharedPreferences.edit().putInt(Constants.LAST_FRAGMENT, index).apply();
+                        } else {
+                            /** use free menu */
+                            loadPrefsFragment(getResources().getStringArray(R.array.nav_menu_xml_file_names)[index]);
+                            setTitle(item.getTitle().toString());
+                            mSharedPreferences.edit().putInt(Constants.LAST_FRAGMENT, index).apply();
+                        }
+                } else {
+                    switch (id) {
+                        case R.id.themes:
+                            mFragmentManager.beginTransaction().add(MyDialogFragment.newInstance(Constants.THEME_DIALOG_REQUEST_CODE), "theme_dialog").commit();
+                            break;
+                        case R.id.changeLog:
+                            mFragmentManager.beginTransaction().add(MyDialogFragment.newInstance(Constants.CHANGELOG_DIALOG_REQUEST_CODE), "changelog").commit();
+                            break;
+                        case R.id.about_us:
+                            startActivity(new Intent(this, AboutActivity.class));
+                            break;
+                        case R.id.backup_restore:
+                            mFragmentManager.beginTransaction().add(MyDialogFragment.newInstance(Constants.BACKUP_OR_RESTORE_DIALOG_REQUEST_CODE), "backup_restore").commit();
+                            break;
+                        }
 
-                case R.id.themes:
-                    mFragmentManager.beginTransaction().add(MyDialogFragment.newInstance(Constants.THEME_DIALOG_REQUEST_CODE), "theme_dialog").commit();
-                    break;
-                case R.id.changeLog:
-                    mFragmentManager.beginTransaction().add(MyDialogFragment.newInstance(Constants.CHANGELOG_DIALOG_REQUEST_CODE), "changelog").commit();
-                    break;
-                case R.id.about_us:
-                    startActivity(new Intent(this, AboutActivity.class));
-                    break;
-                case R.id.backup_restore:
-                    mFragmentManager.beginTransaction().add(MyDialogFragment.newInstance(Constants.BACKUP_OR_RESTORE_DIALOG_REQUEST_CODE), "backup_restore").commit();
-                    break;
-            }
-
+                    }
+                DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+                assert drawer != null;
+                drawer.closeDrawer(GravityCompat.START);
+            return true;
         }
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        assert drawer != null;
-        drawer.closeDrawer(GravityCompat.START);
-        return true;
-    }
+
 
     private void launchBackupRestoreService(int which, String filePath) {
         String action;
