@@ -248,4 +248,13 @@
     <string name="LauncherblurTitle">Launcher blur (Need KS8 PRO)</string>
     <string name="Launcherblurenabled">Launcher blur enabled</string>
     <string name="Launcherblurdisabled">Launcher blur disabled</string>
+
+    <string name="Recent_and_Back_Buttons">Recent and Back Buttons (Need KS8 PRO)</string>
+    <string name="Recent_and_Back_Buttons_PRO">Recent and Back Buttons</string>
+    <string name="LongpressRecentsbutton">Long press Recents button</string>
+    <string name="LongpressBackbutton">Long press Back button</string>
+    <string name="RemovecompletedfromTaskbar">Remove from the taskbar</string>
+    <string name="removeTaskON">removeTask - remove from the taskbar</string>
+    <string name="removeTaskOFF">forceStopPackage - to complete and leave in the taskbar</string>
+
 </resources>

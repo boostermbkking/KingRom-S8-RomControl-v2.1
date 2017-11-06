@@ -458,25 +458,6 @@
         <item>0</item>
         <item>1</item>
     </string-array>
-    <string-array name="multi_key_entries">
-        <item>Recents/Multi Window (default)</item>
-        <item>Kill application</item>
-        <item>Menu</item>
-    </string-array>
-    <string-array name="multi_key_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="home_key_entries">
-        <item>Menu (default)</item>
-        <item>Kill application</item>
-    </string-array>
-    <string-array name="home_key_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-
     <string-array name="alarm_entries" >
         <item>Alarm1</item>
         <item>Alarm2</item>
@@ -610,5 +591,23 @@
     <string-array name="wifiarrow_drawables" >
         <item>@drawable/arrowstyle1</item>
         <item>@drawable/arrowstyle2</item>
+    </string-array>
+    <string-array name="multi_key_entries">
+        <item>Recents/Multi Window</item>
+        <item>Kill application</item>
+        <item>Nothing (default)</item>
+    </string-array>
+    <string-array name="multi_key_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="home_key_entries">
+        <item>Nothing (default)</item>
+        <item>Kill application</item>
+    </string-array>
+    <string-array name="home_key_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
 </resources>
