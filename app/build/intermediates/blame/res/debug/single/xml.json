@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\touchwiz.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\touchwiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\statusbar_pro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\statusbar_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\recent_pro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\recent_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\notification_panel.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\notification_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ui_prefs.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\ui_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\notification_panel_pro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\notification_panel_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\welcome_pro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\welcome_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\script.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\script.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\phone.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\statusbar.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\statusbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\frameworks_pro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\frameworks_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\recent.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\recent.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\phone_prefs.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\phone_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\systemuipro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\systemuipro.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\systemui_pro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\systemui_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\touchwiz_pro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\touchwiz_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\welcome.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\lockscreen.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\lockscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_links.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\app_links.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\frameworks.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\frameworks.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\systemui.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\systemui.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\lockscreen_pro.xml",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\xml\\lockscreen_pro.xml"
+    }
+]

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:layout="@layout/preferences_category" android:title="@string/StatusbarClockOptions" android:summary="Custom clock settings">
+            <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/tap" android:title="@string/Taponclock" android:key="king_tap_clock_launcher" android:defaultValue="true" android:summaryOn="@string/taptolanchapp" android:summaryOff="@string/TapClockLauncherisdisabled" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+            <com.boostermbkking.kingrommods.v2.prefs.IntentDialogPreference android:key="king_press_clock_custom_app" android:title="@string/Taponclockapp" android:dependency="king_tap_clock_launcher" app:intentSeparator="\##" />
+            <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/schedule" android:title="@string/ShowClockandDate" android:key="king_status_bar_clock" android:defaultValue="true" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+            <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/text" android:title="@string/UppercaseTextClock" android:key="king_normal_upper" android:dependency="king_status_bar_clock" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/clock3" android:entries="@array/clock_format_entries" android:title="@string/ClockFormat" android:key="king_statusbar_clock_format" android:dependency="king_status_bar_clock" android:defaultValue="1" android:entryValues="@array/clock_format_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/clock2" android:entries="@array/clock_style_entries" android:title="@string/ClockLocation" android:key="king_statusbar_clock_style" android:dependency="king_status_bar_clock" android:defaultValue="0" android:entryValues="@array/clock_style_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/clock" android:entries="@array/entries_status_bar_am_pm" android:title="@string/ClockAMPM" android:key="king_statusbar_clock_am_pm_style" android:dependency="king_status_bar_clock" android:defaultValue="0" android:entryValues="@array/values_status_bar_am_pm" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/textstyle" android:entries="@array/clock_font_style_entries" android:title="@string/ClockFontStyle" android:key="king_statusbar_clock_font_style" android:dependency="king_status_bar_clock" android:defaultValue="5" android:entryValues="@array/clock_font_style_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.MySeekBarPreference android:title="@string/ClockScaling" android:key="king_statusbar_clock_scale" android:summary="Adjust clock size" android:dependency="king_status_bar_clock" android:defaultValue="15" app:minValue="5" app:maxValue="25" app:unitsValue="dp" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/calendar" android:entries="@array/clock_date_display_entries" android:title="@string/DateDisplayType" android:key="king_statusbar_clock_date_display" android:dependency="king_status_bar_clock" android:defaultValue="0" android:entryValues="@array/clock_date_display_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/calendar1" android:entries="@array/clock_date_style_entries" android:title="@string/DateStyle" android:key="king_statusbar_clock_date_style" android:dependency="king_status_bar_clock" android:defaultValue="0" android:entryValues="@array/clock_date_style_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/calendar2" android:entries="@array/clock_date_format_entries_values" android:title="@string/DateFormat" android:key="king_statusbar_clock_date_format" android:dependency="king_status_bar_clock" android:defaultValue="EEE" android:entryValues="@array/clock_date_format_entries_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.ColorPickerPreference android:title="Clock Color" android:defaultValue="#ffffff" android:key="king_clock_color" />
+    </PreferenceCategory>
+    <PreferenceCategory android:layout="@layout/preferences_category" android:title="@string/batterytoggle" android:summary="Custom clock settings">
+        <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/minit" android:title="@string/Minitbatteryshowhide" android:key="minit_battery_visible" android:defaultValue="true" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+        <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/batterystock" android:title="@string/Stockbatteryshowhide" android:key="stock_battery_visibility" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" app:packageNameToKill="com.android.systemui" app:isSilent="false"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:layout="@layout/preferences_category" android:title="@string/BatteryBar">
+        <PreferenceScreen android:title="@string/BatteryBar" android:icon="@drawable/battery">
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/battery4" android:entries="@array/battery_bar_entries" android:title="@string/BatteryBar" android:key="battery_bar" android:summary="%s" android:defaultValue="1" android:entryValues="@array/battery_bar_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/battery3" android:title="@string/Batterybaranimation" android:key="battery_bar_animate" android:defaultValue="true" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/battery2" android:entries="@array/battery_bar_style_entries" android:title="@string/Batterybarstyle" android:key="battery_bar_style" android:summary="%s" android:defaultValue="1" android:entryValues="@array/battery_bar_style_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/battery5" android:entries="@array/battery_bar_thickness_entries" android:title="@string/Batterybarthick" android:key="battery_bar_thickness" android:summary="%s" android:defaultValue="2" android:entryValues="@array/battery_bar_thickness_values" />
+            <com.boostermbkking.kingrommods.v2.prefs.ColorPickerPreference android:icon="@drawable/battery6" android:title="@string/Batterybarcolor" android:key="battery_bar_color" android:summary="@string/Batterybarcolor2" android:defaultValue="#ffffffff" hexValue="true" alphaSlider="true" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+
+    <PreferenceCategory android:layout="@layout/preferences_category" android:title="@string/VirtualButtonsLocktitle">
+        <PreferenceScreen android:icon="@drawable/padlock" android:title="@string/VirtualButtonsLock">
+            <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/padlock" android:title="@string/Rightside" android:key="cocoyaya_rightcornerlock" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/lock" android:title="@string/Leftside" android:key="cocoyaya_leftcornerlock" android:defaultValue="true" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/lock2" android:title="@string/Center" android:key="cocoyaya_centerlock" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+        </PreferenceScreen>
+         <PreferenceScreen android:icon="@drawable/home" android:title="@string/VirtualButtonsHome">
+             <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/home" android:title="@string/Rightside" android:key="cocoyaya_rightcornerhome" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+             <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/home2" android:title="@string/Leftside" android:key="cocoyaya_leftcornerhome" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+             <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/home3" android:title="@string/Center" android:key="cocoyaya_centerhome" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+         </PreferenceScreen>
+        <PreferenceScreen android:icon="@drawable/bttf3" android:title="@string/VirtualButtonsRecents">
+            <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/bttf" android:title="@string/Rightside" android:key="cocoyaya_rightcornertask" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/bttf2" android:title="@string/Leftside" android:key="cocoyaya_leftcornertask" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+            <com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference android:icon="@drawable/bttf3" android:title="@string/Center" android:key="cocoyaya_centertask" android:defaultValue="false" android:summaryOn="@string/on" android:summaryOff="@string/off" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:layout="@layout/preferences_category" android:title="@string/Networktrafficpreferences">
+        <PreferenceScreen android:title="@string/Networktrafficpreferences" android:icon="@drawable/rocket">
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/database" android:title="@string/Displayedtrafficinfo" android:key="network_traffic_state" android:defaultValue="3" app:dependentValue="0" android:entryValues="@array/traffic_state_values" android:entries="@array/traffic_state_items"/>
+            <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/rocket" android:title="@string/DisplaydatainBytes" android:summaryOff="@string/DisplayedinBits" android:summaryOn="@string/DisplaydatainBytes" android:defaultValue="false" android:key="network_traffic_unit" android:dependency="network_traffic_state"/>
+            <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/press" android:title="@string/Showtrafficarrows" android:key="network_traffic_show_arrows" android:defaultValue="true" android:summaryOff="@string/off" android:summaryOn="@string/on" android:dependency="network_traffic_state"/>
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/flask" android:title="@string/Arrows_position" android:key="network_traffic_arrows_position" android:dependency="network_traffic_show_arrows" android:defaultValue="0" android:entryValues="@array/arrow_position_values" android:entries="@array/arrow_position_entries"/>
+            <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/races" android:title="@string/Autohideonlowtraffic" android:key="network_traffic_autohide" android:defaultValue="false" android:summaryOff="Displayed always" android:summaryOn="Autohide enabled"/>
+            <com.boostermbkking.kingrommods.v2.prefs.MySeekBarPreference android:title="@string/Autohidethreshold" app:unitsValue="Kb" app:maxValue="100" android:key="network_traffic_threshold" android:defaultValue="10" android:dependency="network_traffic_autohide"/>
+            <com.boostermbkking.kingrommods.v2.prefs.MyListPreference android:icon="@drawable/cogwheel" android:title="@string/Fontstyle" android:key="network_traffic_text_style" android:defaultValue="0" android:entries="@array/traffic_style_entries" android:entryValues="@array/traffic_style_entry_values"/>
+            <com.boostermbkking.kingrommods.v2.prefs.MySeekBarPreference android:title="@string/Textsizescalefactor" android:key="network_traffic_scale" app:maxValue="10" android:defaultValue="10"/>
+            <PreferenceCategory android:title="@string/Networktrafficcolor" android:dependency="network_traffic_state">
+                <com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference android:icon="@drawable/pantone" android:title="@string/Separatecolorsforelements" android:key="network_traffic_global_color" android:defaultValue="true" android:summaryOn="@string/Allelementscoloredseparately" android:summaryOff="@string/Globalcolorallelements"/>
+                <com.boostermbkking.kingrommods.v2.prefs.ColorPickerPreference android:icon="@drawable/pantone2" android:title="@string/Globalcolor" android:key="network_traffic_color" android:defaultValue="#ffffff"/>
+                <com.boostermbkking.kingrommods.v2.prefs.ColorPickerPreference android:icon="@drawable/pantone6" android:title="@string/Uploadtextcolor" android:defaultValue="#ffffff" android:key="network_traffic_upload_color" android:dependency="network_traffic_global_color"/>
+                <com.boostermbkking.kingrommods.v2.prefs.ColorPickerPreference android:icon="@drawable/pantone4" android:title="@string/Downloadtextcolor" android:defaultValue="#ffffff" android:key="network_traffic_download_color" android:dependency="network_traffic_global_color"/>
+                <com.boostermbkking.kingrommods.v2.prefs.ColorPickerPreference android:icon="@drawable/pantone5" android:title="@string/Trafficarrowscolor" android:key="network_traffic_arrow_color" android:defaultValue="#ffffff" android:dependency="network_traffic_global_color"/>
+            </PreferenceCategory>
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+</PreferenceScreen>
