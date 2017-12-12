@@ -89,10 +89,29 @@
     <string name="supersuinfo">Manage SU Permissions</string>
     <string name="Sound_Control">Sound Control</string>
     <string name="soundmanager">Set Audio Filter for KING ROM</string>
+    <!-- POWER MENU -->
     <string name="POWER_OFF_TOGGLE">POWER OFF TOGGLE</string>
+    <string name="REBOOT_TOGGLE">REBOOT TOGGLE</string>
+    <string name="DOWNLOAD_MODE_TOGGLE">DOWNLOAD TOGGLE</string>
+    <string name="QUICKREBOOT_MODE_TOGGLETITLE">QUICKREBOOT TOGGLE (Need KS8 PRO)</string>
+    <string name="QUICKREBOOT_MODE_TOGGLE">QUICKREBOOT TOGGLE</string>
+    <string name="TORCH_MODE_TOGGLETITLE">TORCH TOGGLE (Need KS8 PRO)</string>
+    <string name="TORCH_MODE_TOGGLE">TORCH TOGGLE</string>
+    <string name="SCREENRECORD_MODE_TOGGLETITLE">SCREENRECORD TOGGLE (Need KS8 PRO)</string>
+    <string name="SCREENRECORD_MODE_TOGGLE">SCREENRECORD TOGGLE</string>
+    <string name="SCREENSHOT_MODE_TOGGLETITLE">SCREENSHOT TOGGLE (Need KS8 PRO)</string>
+    <string name="SCREENSHOT_MODE_TOGGLE">SCREENSHOT TOGGLE</string>
+    <string name="ASSISTENT_MODE_TOGGLETITLE">ASSISTENT TOGGLE (Need KS8 PRO)</string>
+    <string name="ASSISTENT_MODE_TOGGLE">ASSISTENT TOGGLE</string>
+    <string name="DATA_MODE_TOGGLETITLE">DATA TOGGLE (Need KS8 PRO)</string>
+    <string name="DATA_MODE_TOGGLE">DATA TOGGLE</string>
+    <string name="FLY_MODE_TOGGLE">FLY TOGGLE</string>
+    <string name="MULTIUSERS_MODE_TOGGLE">MULTIUSERS TOGGLE</string>
     <string name="REBOOT_RECOVERY_TOGGLETITLE">REBOOT RECOVERY TOGGLE (Need KS8 PRO)</string>
     <string name="REBOOT_RECOVERY_TOGGLE">REBOOT RECOVERY TOGGLE</string>
     <string name="EMERGENCY_MODE_TOGGLE">TOGGLE EMERGENCY MODE</string>
+    <string name="SETTING_TOGGLE">TOGGLE SETTING</string>
+    <!-- /POWER MENU -->
     <string name="USBPLUGINTITLE">USB Plug/Unplug WAKE UP (Need KS8 PRO)</string>
     <string name="USBPLUGIN">USB Plug/Unplug WAKE UP</string>
     <string name="USBPLUGINLITE">USB WAKE UP</string>
@@ -193,6 +212,15 @@
     <string name="Leftside">Left side</string>
     <string name="Center">Center</string>
 
+    <string name="CustomLogoTitlePro">CUSTOM LOGO PREFERENCES (Need KS8 PRO)</string>
+    <string name="CustomLogoTitle">CUSTOM LOGO PREFERENCES</string>
+    <string name="WarningLogoSyze">Please select image under 1 MB size, otherwise it will be laggy</string>
+    <string name="CustomLogo">Custom Logo</string>
+    <string name="LogoVisibility">Logo Visibility</string>
+    <string name="CustomLogoType">Custom Logo Type</string>
+    <string name="SelectLogoFromGallery">Select Logo From Gallery</string>
+    <string name="LogoColors">Logo Colors</string>
+
     <string name="Taponclock">Tap on clock</string>
     <string name="Taponclockpro">Tap on clock (Need KS8 PRO)</string>
     <string name="Taponclockapp">Tap Clock App Selection</string>
@@ -256,5 +284,18 @@
     <string name="RemovecompletedfromTaskbar">Remove from the taskbar</string>
     <string name="removeTaskON">removeTask - remove from the taskbar</string>
     <string name="removeTaskOFF">forceStopPackage - to complete and leave in the taskbar</string>
+
+    <string name="StatusbarColors">Statusbar Colors</string>
+    <string name="StatusbarColorsGlobal">Statusbar Global Colors</string>
+    <string name="StatusbarColorGlobal">Statusbar Global Color</string>
+    <string name="StatusbarClockColor">Statusbar Clock Color</string>
+    <string name="StatusbarWifiColor">Statusbar Wifi Color</string>
+    <string name="StatusbarSignalColor">Statusbar Signal Color</string>
+    <string name="StatusbarMobileColor">Statusbar Mobile Color</string>
+    <string name="StatusbarRoamingColor">Statusbar Roaming Color</string>
+    <string name="StatusbarAirplaneColor">Statusbar Airplane Color</string>
+    <string name="StatusbarStatusColor">Statusbar Status Color</string>
+    <string name="StatusbarNotificationColor">Statusbar Notification Color</string>
+    <string name="StatusbarBatteryColor">Statusbar Battery Color</string>
 
 </resources>

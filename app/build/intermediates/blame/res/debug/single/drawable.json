@@ -32,12 +32,12 @@
         "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\power.png"
     },
     {
-        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock3.png",
-        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\clock3.png"
-    },
-    {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifistyle9.png",
         "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\wifistyle9.png"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock3.png",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\clock3.png"
     },
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pantone5.png",
@@ -78,6 +78,10 @@
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_changelog.xml",
         "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\ic_changelog.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backarrow.png",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\backarrow.png"
     },
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
@@ -368,6 +372,10 @@
         "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\android2.png"
     },
     {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\multiwindows.png",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\multiwindows.png"
+    },
+    {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\drawable\\notification_bg.xml"
     },
@@ -574,6 +582,10 @@
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touchkey.png",
         "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\touchkey.png"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xbutton.png",
+        "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\drawable\\xbutton.png"
     },
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifi.png",

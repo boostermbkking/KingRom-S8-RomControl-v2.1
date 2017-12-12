@@ -32,12 +32,12 @@
         "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",

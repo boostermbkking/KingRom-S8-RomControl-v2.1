@@ -4,28 +4,28 @@
         "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
         "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\changelog_item.xml",
         "source": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\src\\main\\res\\layout\\changelog_item.xml"
     },
     {
-        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
         "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\43b25cdae8fc7e36ae64649e32312f73f58a8175\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\boostermbkking\\.android\\build-cache\\089839cab508b514fb5736348306799ce9f1d6dc\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "C:\\Users\\boostermbkking\\StudioProjects\\KingRom-S8-RomControl-v2.1\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",

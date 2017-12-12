@@ -68,16 +68,16 @@ android.support.design.R$dimen:
 android.support.design.R$drawable:
     600:600:public R$drawable()
 android.support.design.R$id:
-    712:712:public R$id()
+    706:706:public R$id()
 android.support.design.R$integer:
-    867:867:public R$integer()
+    861:861:public R$integer()
 android.support.design.R$layout:
-    878:878:public R$layout()
+    872:872:public R$layout()
 android.support.design.R$string
 android.support.design.R$style:
-    983:983:public R$style()
+    977:977:public R$style()
 android.support.design.R$styleable:
-    1363:1363:public R$styleable()
+    1357:1357:public R$styleable()
 android.support.design.internal.BottomNavigationItemView
 android.support.design.internal.BottomNavigationMenu
 android.support.design.internal.BottomNavigationMenuView
@@ -548,12 +548,8 @@ android.support.v4.app.ActivityCompat:
     280:285:public static void setExitSharedElementCallback(android.app.Activity,android.support.v4.app.SharedElementCallback)
     288:291:public static void postponeEnterTransition(android.app.Activity)
     294:297:public static void startPostponedEnterTransition(android.app.Activity)
-    368:391:public static void requestPermissions(android.app.Activity,java.lang.String[],int)
-    415:418:public static boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String)
     423:427:private static android.support.v4.app.ActivityCompatApi21$SharedElementCallback21 createCallback(android.support.v4.app.SharedElementCallback)
     432:436:private static android.support.v4.app.ActivityCompatApi23$SharedElementCallback23 createCallback23(android.support.v4.app.SharedElementCallback)
-android.support.v4.app.ActivityCompat$1
-android.support.v4.app.ActivityCompat$OnRequestPermissionsResultCallback
 android.support.v4.app.ActivityCompat$SharedElementCallback21Impl
 android.support.v4.app.ActivityCompat$SharedElementCallback23Impl
 android.support.v4.app.ActivityCompat$SharedElementCallback23Impl$1
@@ -561,9 +557,12 @@ android.support.v4.app.ActivityCompatApi21
 android.support.v4.app.ActivityCompatApi21$SharedElementCallback21
 android.support.v4.app.ActivityCompatApi21$SharedElementCallbackImpl
 android.support.v4.app.ActivityCompatApi22
-android.support.v4.app.ActivityCompatApi23
+android.support.v4.app.ActivityCompatApi23:
+    32:79:ActivityCompatApi23()
+    57:58:public static void setEnterSharedElementCallback(android.app.Activity,android.support.v4.app.ActivityCompatApi23$SharedElementCallback23)
+    62:63:public static void setExitSharedElementCallback(android.app.Activity,android.support.v4.app.ActivityCompatApi23$SharedElementCallback23)
+    66:70:private static android.app.SharedElementCallback createCallback(android.support.v4.app.ActivityCompatApi23$SharedElementCallback23)
 android.support.v4.app.ActivityCompatApi23$OnSharedElementsReadyListenerBridge
-android.support.v4.app.ActivityCompatApi23$RequestPermissionsRequestCodeValidator
 android.support.v4.app.ActivityCompatApi23$SharedElementCallback23
 android.support.v4.app.ActivityCompatApi23$SharedElementCallbackImpl
 android.support.v4.app.ActivityCompatApi23$SharedElementCallbackImpl$1
@@ -732,7 +731,6 @@ android.support.v4.app.FragmentActivity:
     static final int MAX_NUM_PENDING_FRAGMENT_ACTIVITY_RESULTS
     static final int MSG_REALLY_STOPPED
     static final int MSG_RESUME_PENDING
-    boolean mRequestedPermissionsFromFragment
     188:189:public void supportFinishAfterTransition()
     200:201:public void setEnterSharedElementCallback(android.support.v4.app.SharedElementCallback)
     213:214:public void setExitSharedElementCallback(android.support.v4.app.SharedElementCallback)
@@ -741,7 +739,6 @@ android.support.v4.app.FragmentActivity:
     595:597:public java.lang.Object getLastCustomNonConfigurationInstance()
     688:688:public android.support.v4.app.FragmentManager getSupportFragmentManager()
     692:692:public android.support.v4.app.LoaderManager getSupportLoaderManager()
-    720:724:public final void validateRequestPermissionsRequestCode(int)
     770:771:public void startActivityFromFragment(android.support.v4.app.Fragment,android.content.Intent,int)
     778:791:public void startActivityFromFragment(android.support.v4.app.Fragment,android.content.Intent,int,android.os.Bundle)
     799:814:public void startIntentSenderFromFragment(android.support.v4.app.Fragment,android.content.IntentSender,int,android.content.Intent,int,int,int,android.os.Bundle)
@@ -1065,7 +1062,6 @@ android.support.v4.content.ContextCompat:
     269:272:public static java.io.File[] getExternalFilesDirs(android.content.Context,java.lang.String)
     321:324:public static java.io.File[] getExternalCacheDirs(android.content.Context)
     329:337:private static varargs java.io.File buildPath(java.io.File,java.lang.String[])
-    428:432:public static int checkSelfPermission(android.content.Context,java.lang.String)
     450:454:public static final java.io.File getNoBackupFilesDir(android.content.Context)
     474:478:public static java.io.File getCodeCacheDir(android.content.Context)
     483:493:private static synchronized java.io.File createFilesDir(java.io.File)
@@ -3412,13 +3408,10 @@ android.support.v7.app.AlertDialog:
 android.support.v7.app.AlertDialog$Builder:
     345:346:public android.support.v7.app.AlertDialog$Builder setTitle(int)
     386:387:public android.support.v7.app.AlertDialog$Builder setMessage(int)
-    396:397:public android.support.v7.app.AlertDialog$Builder setMessage(java.lang.CharSequence)
     408:409:public android.support.v7.app.AlertDialog$Builder setIcon(int)
     437:440:public android.support.v7.app.AlertDialog$Builder setIconAttribute(int)
     451:453:public android.support.v7.app.AlertDialog$Builder setPositiveButton(int,android.content.DialogInterface$OnClickListener)
-    464:466:public android.support.v7.app.AlertDialog$Builder setPositiveButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)
     477:479:public android.support.v7.app.AlertDialog$Builder setNegativeButton(int,android.content.DialogInterface$OnClickListener)
-    490:492:public android.support.v7.app.AlertDialog$Builder setNegativeButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)
     503:505:public android.support.v7.app.AlertDialog$Builder setNeutralButton(int,android.content.DialogInterface$OnClickListener)
     516:518:public android.support.v7.app.AlertDialog$Builder setNeutralButton(java.lang.CharSequence,android.content.DialogInterface$OnClickListener)
     527:528:public android.support.v7.app.AlertDialog$Builder setCancelable(boolean)
@@ -4710,7 +4703,7 @@ com.boostermbkking.kingrommods.v2.R$raw
 com.boostermbkking.kingrommods.v2.R$string
 com.boostermbkking.kingrommods.v2.R$style
 com.boostermbkking.kingrommods.v2.R$styleable:
-    4387:4387:public R$styleable()
+    4499:4499:public R$styleable()
 com.boostermbkking.kingrommods.v2.R$xml
 com.boostermbkking.kingrommods.v2.prefs.ColorPickerDialog:
     178:178:public boolean getHexValueEnabled()
@@ -4774,6 +4767,23 @@ com.boostermbkking.kingrommods.v2.utils.Utils:
     private static final java.lang.String LOG_TAG
     51:51:public Utils()
     160:168:private static float getDegreesForRotation(int)
+com.karan.churi.PermissionManager.BuildConfig
+com.karan.churi.PermissionManager.PermissionManager:
+    43:56:public java.util.ArrayList getStatus()
+com.karan.churi.PermissionManager.PermissionManager$statusArray
+com.karan.churi.PermissionManager.R
+com.karan.churi.PermissionManager.R$anim
+com.karan.churi.PermissionManager.R$attr
+com.karan.churi.PermissionManager.R$bool
+com.karan.churi.PermissionManager.R$color
+com.karan.churi.PermissionManager.R$dimen
+com.karan.churi.PermissionManager.R$drawable
+com.karan.churi.PermissionManager.R$id
+com.karan.churi.PermissionManager.R$integer
+com.karan.churi.PermissionManager.R$layout
+com.karan.churi.PermissionManager.R$string
+com.karan.churi.PermissionManager.R$style
+com.karan.churi.PermissionManager.R$styleable
 com.stericson.RootShell.RootShell:
     public static final java.lang.String version
     40:67:public RootShell()

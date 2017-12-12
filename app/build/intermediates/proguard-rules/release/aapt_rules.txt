@@ -1,373 +1,405 @@
-# view res/layout/design_bottom_navigation_item.xml #generated:26
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\res\layout\design_bottom_navigation_item.xml:26
 -keep class android.support.design.internal.BaselineLayout { <init>(...); }
 
-# view res/layout/design_navigation_item.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\res\layout\design_navigation_item.xml:17
 -keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
 
-# view res/layout/design_navigation_menu.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\res\layout\design_navigation_menu.xml:17
 -keep class android.support.design.internal.NavigationMenuView { <init>(...); }
 
-# view res/layout/design_layout_snackbar_include.xml #generated:18
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\res\layout\design_layout_snackbar_include.xml:18
 -keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
 
-# view res/layout/activity_about.xml #generated:23
-# view res/layout/app_bar_main.xml #generated:24
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\activity_about.xml:23
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\app_bar_main.xml:24
 -keep class android.support.design.widget.AppBarLayout { <init>(...); }
 
-# view res/layout/design_text_input_password_icon.xml #generated:18
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\res\layout\design_text_input_password_icon.xml:18
 -keep class android.support.design.widget.CheckableImageButton { <init>(...); }
 
-# view res/layout/activity_about.xml #generated:31
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\activity_about.xml:31
 -keep class android.support.design.widget.CollapsingToolbarLayout { <init>(...); }
 
-# view res/layout/activity_about.xml #generated:15
-# view res/layout/app_bar_main.xml #generated:15
-# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\res\layout\design_bottom_sheet_dialog.xml:17
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\activity_about.xml:15
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\app_bar_main.xml:15
 -keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
 
-# view res/layout/reboot_item.xml #generated:23
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\reboot_item.xml:23
 -keep class android.support.design.widget.FloatingActionButton { <init>(...); }
 
-# view res/layout/activity_main.xml #generated:17
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\activity_main.xml:17
 -keep class android.support.design.widget.NavigationView { <init>(...); }
 
-# view res/layout/design_layout_snackbar.xml #generated:18
-# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\res\layout-sw600dp-v13\design_layout_snackbar.xml:18
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\res\layout\design_layout_snackbar.xml:18
 -keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
 
-# view res/layout/activity_main.xml #generated:2
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\activity_main.xml:2
 -keep class android.support.v4.widget.DrawerLayout { <init>(...); }
 
-# view res/layout/abc_alert_dialog_material.xml #generated:41
-# view res/layout/about_activity_content.xml #generated:15
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_alert_dialog_material.xml:41
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\about_activity_content.xml:15
 -keep class android.support.v4.widget.NestedScrollView { <init>(...); }
 
-# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
-# view res/layout/abc_alert_dialog_material.xml #generated:52
-# view res/layout/abc_alert_dialog_material.xml #generated:66
-# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_alert_dialog_button_bar_material.xml:43
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_alert_dialog_material.xml:66
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_alert_dialog_title_material.xml:56
 -keep class android.support.v4.widget.Space { <init>(...); }
 
-# view res/layout/abc_select_dialog_material.xml #generated:23
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_select_dialog_material.xml:23
 -keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
 
-# view res/layout/abc_action_menu_item_layout.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_action_menu_item_layout.xml:17
 -keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
 
-# view res/layout/abc_expanded_menu_layout.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_expanded_menu_layout.xml:17
 -keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
 
-# view res/layout/abc_list_menu_item_layout.xml #generated:17
-# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_popup_menu_item_layout.xml:17
 -keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
 
-# view res/layout/abc_screen_toolbar.xml #generated:27
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_toolbar.xml:27
 -keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
 
-# view res/layout/abc_action_mode_bar.xml #generated:19
-# view res/layout/abc_screen_toolbar.xml #generated:43
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_toolbar.xml:43
 -keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
 
-# view res/layout/abc_screen_toolbar.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_toolbar.xml:17
 -keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
 
-# view res/layout/abc_action_menu_layout.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_action_menu_layout.xml:17
 -keep class android.support.v7.widget.ActionMenuView { <init>(...); }
 
-# view res/layout/abc_activity_chooser_view.xml #generated:19
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_activity_chooser_view.xml:19
 -keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
 
-# view res/layout/abc_alert_dialog_material.xml #generated:18
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_alert_dialog_material.xml:18
 -keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
 
-# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_alert_dialog_button_bar_material.xml:26
 -keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
 
-# view res/layout/about_activity_content.xml #generated:32
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\about_activity_content.xml:32
 -keep class android.support.v7.widget.CardView { <init>(...); }
 
-# view res/layout/abc_screen_content_include.xml #generated:19
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_content_include.xml:19
 -keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
 
-# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_alert_dialog_title_material.xml:45
 -keep class android.support.v7.widget.DialogTitle { <init>(...); }
 
-# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_simple_overlay_action_mode.xml:23
 -keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
 
-# view res/layout/abc_dialog_title_material.xml #generated:22
-# view res/layout/abc_screen_simple.xml #generated:17
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_simple.xml:17
 -keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
 
-# view res/layout/multi_select_preference_dialog_layout.xml #generated:26
-# view res/layout/multiple_choice_preference_dialog_layout.xml #generated:29
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\multi_select_preference_dialog_layout.xml:26
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\multiple_choice_preference_dialog_layout.xml:29
 -keep class android.support.v7.widget.RecyclerView { <init>(...); }
 
-# view res/layout/abc_search_view.xml #generated:75
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_search_view.xml:75
 -keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
 
-# view res/layout/abc_screen_toolbar.xml #generated:36
-# view res/layout/activity_about.xml #generated:57
-# view res/layout/app_bar_main.xml #generated:29
-# view res/layout/nested_preference_toolbar_layout.xml #generated:15
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_toolbar.xml:36
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\activity_about.xml:57
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\app_bar_main.xml:29
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\nested_preference_toolbar_layout.xml:15
 -keep class android.support.v7.widget.Toolbar { <init>(...); }
 
-# view res/layout/abc_screen_simple.xml #generated:25
-# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\res\layout\abc_screen_simple_overlay_action_mode.xml:32
 -keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
 
-# view AndroidManifest.xml #generated:48
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\build\intermediates\manifests\full\release\AndroidManifest.xml:49
 -keep class com.boostermbkking.kingrommods.v2.AboutActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:38
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\build\intermediates\manifests\full\release\AndroidManifest.xml:39
 -keep class com.boostermbkking.kingrommods.v2.MainActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:23
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\build\intermediates\manifests\full\release\AndroidManifest.xml:23
 -keep class com.boostermbkking.kingrommods.v2.MyApp { <init>(...); }
 
-# view land\res/layout-land/dialog_color_picker.xml #generated:60
-# view land\res/layout-land/dialog_color_picker.xml #generated:75
-# view res/layout/dialog_color_picker.xml #generated:67
-# view res/layout/dialog_color_picker.xml #generated:82
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout-land\dialog_color_picker.xml:60
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout-land\dialog_color_picker.xml:75
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\dialog_color_picker.xml:67
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\dialog_color_picker.xml:82
 -keep class com.boostermbkking.kingrommods.v2.prefs.ColorPickerPanelView { <init>(...); }
 
-# view res/xml/phone_prefs.xml #generated:43
-# view res/xml/phone_prefs.xml #generated:47
-# view res/xml/recent.xml #generated:10
-# view res/xml/recent.xml #generated:11
-# view res/xml/recent_pro.xml #generated:10
-# view res/xml/recent_pro.xml #generated:11
-# view res/xml/statusbar.xml #generated:101
-# view res/xml/statusbar.xml #generated:102
-# view res/xml/statusbar.xml #generated:103
-# view res/xml/statusbar.xml #generated:104
-# view res/xml/statusbar.xml #generated:17
-# view res/xml/statusbar.xml #generated:59
-# view res/xml/statusbar_pro.xml #generated:17
-# view res/xml/statusbar_pro.xml #generated:30
-# view res/xml/statusbar_pro.xml #generated:65
-# view res/xml/statusbar_pro.xml #generated:66
-# view res/xml/statusbar_pro.xml #generated:67
-# view res/xml/statusbar_pro.xml #generated:68
-# view res/xml/ui_prefs.xml #generated:105
-# view res/xml/ui_prefs.xml #generated:526
-# view res/xml/ui_prefs.xml #generated:543
-# view res/xml/ui_prefs.xml #generated:89
-# view res/xml/ui_prefs.xml #generated:96
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone_prefs.xml:43
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone_prefs.xml:47
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\recent.xml:10
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\recent.xml:11
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\recent_pro.xml:10
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\recent_pro.xml:11
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:26
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:31
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:118
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:160
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:161
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:162
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:163
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:192
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:26
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:31
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:88
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:123
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:124
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:125
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:126
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:155
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:89
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:96
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:105
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:526
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:543
 -keep class com.boostermbkking.kingrommods.v2.prefs.ColorPickerPreference { <init>(...); }
 
-# view land\res/layout-land/dialog_color_picker.xml #generated:25
-# view res/layout/dialog_color_picker.xml #generated:26
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout-land\dialog_color_picker.xml:25
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\dialog_color_picker.xml:26
 -keep class com.boostermbkking.kingrommods.v2.prefs.ColorPickerView { <init>(...); }
 
-# view res/xml/touchwiz.xml #generated:6
-# view res/xml/touchwiz_pro.xml #generated:6
-# view res/xml/ui_prefs.xml #generated:310
-# view res/xml/ui_prefs.xml #generated:318
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\touchwiz.xml:6
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\touchwiz_pro.xml:6
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:310
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:318
 -keep class com.boostermbkking.kingrommods.v2.prefs.FilePreference { <init>(...); }
 
-# view res/xml/phone.xml #generated:10
-# view res/xml/phone.xml #generated:6
-# view res/xml/phone.xml #generated:8
-# view res/xml/ui_prefs.xml #generated:514
-# view res/xml/welcome.xml #generated:5
-# view res/xml/welcome_pro.xml #generated:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone.xml:6
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone.xml:8
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone.xml:10
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:514
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\welcome.xml:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\welcome_pro.xml:5
 -keep class com.boostermbkking.kingrommods.v2.prefs.ImageHeaderPreference { <init>(...); }
 
-# view res/xml/statusbar.xml #generated:6
-# view res/xml/statusbar_pro.xml #generated:6
-# view res/xml/ui_prefs.xml #generated:227
-# view res/xml/ui_prefs.xml #generated:235
-# view res/xml/ui_prefs.xml #generated:244
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:6
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:6
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:227
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:235
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:244
 -keep class com.boostermbkking.kingrommods.v2.prefs.IntentDialogPreference { <init>(...); }
 
-# view res/xml/frameworks.xml #generated:19
-# view res/xml/frameworks_pro.xml #generated:19
-# view res/xml/statusbar.xml #generated:73
-# view res/xml/statusbar.xml #generated:74
-# view res/xml/statusbar.xml #generated:75
-# view res/xml/statusbar.xml #generated:78
-# view res/xml/statusbar.xml #generated:79
-# view res/xml/statusbar.xml #generated:80
-# view res/xml/statusbar.xml #generated:83
-# view res/xml/statusbar.xml #generated:84
-# view res/xml/statusbar.xml #generated:85
-# view res/xml/statusbar_pro.xml #generated:37
-# view res/xml/statusbar_pro.xml #generated:38
-# view res/xml/statusbar_pro.xml #generated:39
-# view res/xml/statusbar_pro.xml #generated:42
-# view res/xml/statusbar_pro.xml #generated:43
-# view res/xml/statusbar_pro.xml #generated:44
-# view res/xml/statusbar_pro.xml #generated:47
-# view res/xml/statusbar_pro.xml #generated:48
-# view res/xml/statusbar_pro.xml #generated:49
-# view res/xml/ui_prefs.xml #generated:72
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:58
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:58
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:132
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:133
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:134
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:137
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:138
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:139
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:142
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:143
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:144
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:95
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:96
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:97
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:100
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:101
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:102
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:105
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:106
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:107
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:72
 -keep class com.boostermbkking.kingrommods.v2.prefs.MyCheckBoxPreference { <init>(...); }
 
-# view res/xml/ui_prefs.xml #generated:165
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:165
 -keep class com.boostermbkking.kingrommods.v2.prefs.MyEditTextPreference { <init>(...); }
 
-# view res/xml/frameworks.xml #generated:17
-# view res/xml/frameworks.xml #generated:18
-# view res/xml/frameworks_pro.xml #generated:17
-# view res/xml/frameworks_pro.xml #generated:18
-# view res/xml/notification_panel.xml #generated:164
-# view res/xml/notification_panel_pro.xml #generated:164
-# view res/xml/phone_prefs.xml #generated:26
-# view res/xml/phone_prefs.xml #generated:36
-# view res/xml/phone_prefs.xml #generated:51
-# view res/xml/statusbar.xml #generated:10
-# view res/xml/statusbar.xml #generated:11
-# view res/xml/statusbar.xml #generated:12
-# view res/xml/statusbar.xml #generated:14
-# view res/xml/statusbar.xml #generated:15
-# view res/xml/statusbar.xml #generated:16
-# view res/xml/statusbar.xml #generated:28
-# view res/xml/statusbar.xml #generated:43
-# view res/xml/statusbar.xml #generated:51
-# view res/xml/statusbar.xml #generated:9
-# view res/xml/statusbar.xml #generated:91
-# view res/xml/statusbar.xml #generated:94
-# view res/xml/statusbar.xml #generated:97
-# view res/xml/statusbar_pro.xml #generated:10
-# view res/xml/statusbar_pro.xml #generated:11
-# view res/xml/statusbar_pro.xml #generated:12
-# view res/xml/statusbar_pro.xml #generated:14
-# view res/xml/statusbar_pro.xml #generated:15
-# view res/xml/statusbar_pro.xml #generated:16
-# view res/xml/statusbar_pro.xml #generated:26
-# view res/xml/statusbar_pro.xml #generated:28
-# view res/xml/statusbar_pro.xml #generated:29
-# view res/xml/statusbar_pro.xml #generated:55
-# view res/xml/statusbar_pro.xml #generated:58
-# view res/xml/statusbar_pro.xml #generated:61
-# view res/xml/statusbar_pro.xml #generated:9
-# view res/xml/ui_prefs.xml #generated:156
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:56
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:57
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:56
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:57
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\notification_panel.xml:164
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\notification_panel_pro.xml:164
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone_prefs.xml:26
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone_prefs.xml:36
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone_prefs.xml:51
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:9
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:10
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:11
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:12
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:14
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:15
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:16
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:87
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:102
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:110
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:150
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:153
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:156
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:175
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:9
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:10
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:11
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:12
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:14
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:15
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:16
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:84
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:86
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:87
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:113
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:116
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:119
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:138
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:156
 -keep class com.boostermbkking.kingrommods.v2.prefs.MyListPreference { <init>(...); }
 
-# view res/xml/phone_prefs.xml #generated:57
-# view res/xml/statusbar.xml #generated:13
-# view res/xml/statusbar.xml #generated:96
-# view res/xml/statusbar.xml #generated:98
-# view res/xml/statusbar_pro.xml #generated:13
-# view res/xml/statusbar_pro.xml #generated:60
-# view res/xml/statusbar_pro.xml #generated:62
-# view res/xml/ui_prefs.xml #generated:120
-# view res/xml/ui_prefs.xml #generated:126
-# view res/xml/ui_prefs.xml #generated:136
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone_prefs.xml:57
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:13
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:155
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:157
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:13
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:118
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:120
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:120
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:126
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:136
 -keep class com.boostermbkking.kingrommods.v2.prefs.MySeekBarPreference { <init>(...); }
 
-# view res/xml/frameworks.xml #generated:11
-# view res/xml/frameworks.xml #generated:14
-# view res/xml/frameworks.xml #generated:5
-# view res/xml/frameworks.xml #generated:8
-# view res/xml/frameworks_pro.xml #generated:11
-# view res/xml/frameworks_pro.xml #generated:14
-# view res/xml/frameworks_pro.xml #generated:5
-# view res/xml/frameworks_pro.xml #generated:8
-# view res/xml/lockscreen.xml #generated:5
-# view res/xml/lockscreen_pro.xml #generated:5
-# view res/xml/phone_prefs.xml #generated:17
-# view res/xml/recent.xml #generated:9
-# view res/xml/recent_pro.xml #generated:9
-# view res/xml/statusbar.xml #generated:100
-# view res/xml/statusbar.xml #generated:20
-# view res/xml/statusbar.xml #generated:21
-# view res/xml/statusbar.xml #generated:36
-# view res/xml/statusbar.xml #generated:5
-# view res/xml/statusbar.xml #generated:7
-# view res/xml/statusbar.xml #generated:8
-# view res/xml/statusbar.xml #generated:92
-# view res/xml/statusbar.xml #generated:93
-# view res/xml/statusbar.xml #generated:95
-# view res/xml/statusbar_pro.xml #generated:20
-# view res/xml/statusbar_pro.xml #generated:21
-# view res/xml/statusbar_pro.xml #generated:27
-# view res/xml/statusbar_pro.xml #generated:5
-# view res/xml/statusbar_pro.xml #generated:56
-# view res/xml/statusbar_pro.xml #generated:57
-# view res/xml/statusbar_pro.xml #generated:59
-# view res/xml/statusbar_pro.xml #generated:64
-# view res/xml/statusbar_pro.xml #generated:7
-# view res/xml/statusbar_pro.xml #generated:8
-# view res/xml/systemui.xml #generated:5
-# view res/xml/systemui.xml #generated:57
-# view res/xml/systemui_pro.xml #generated:5
-# view res/xml/systemui_pro.xml #generated:57
-# view res/xml/ui_prefs.xml #generated:33
-# view res/xml/ui_prefs.xml #generated:41
-# view res/xml/ui_prefs.xml #generated:52
-# view res/xml/ui_prefs.xml #generated:520
-# view res/xml/ui_prefs.xml #generated:537
-# view res/xml/ui_prefs.xml #generated:62
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:7
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:10
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:13
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:16
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:19
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:22
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:25
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:28
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:31
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:34
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:37
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:40
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:43
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks.xml:51
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:7
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:10
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:13
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:16
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:19
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:22
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:25
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:28
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:31
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:34
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:37
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:40
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:43
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\frameworks_pro.xml:51
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\lockscreen.xml:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\lockscreen_pro.xml:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone_prefs.xml:17
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\recent.xml:9
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\recent_pro.xml:9
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:7
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:8
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:20
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:79
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:80
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:95
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:151
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:152
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:154
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:159
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:169
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:7
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:8
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:20
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:78
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:79
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:85
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:114
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:115
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:117
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:122
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:132
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui.xml:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui.xml:57
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui_pro.xml:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui_pro.xml:57
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:33
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:41
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:52
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:62
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:520
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:537
 -keep class com.boostermbkking.kingrommods.v2.prefs.MySwitchPreference { <init>(...); }
 
-# view res/xml/app_links.xml #generated:11
-# view res/xml/app_links.xml #generated:12
-# view res/xml/app_links.xml #generated:13
-# view res/xml/app_links.xml #generated:14
-# view res/xml/app_links.xml #generated:17
-# view res/xml/app_links.xml #generated:18
-# view res/xml/app_links.xml #generated:21
-# view res/xml/app_links.xml #generated:22
-# view res/xml/app_links.xml #generated:23
-# view res/xml/app_links.xml #generated:24
-# view res/xml/app_links.xml #generated:25
-# view res/xml/app_links.xml #generated:5
-# view res/xml/app_links.xml #generated:6
-# view res/xml/app_links.xml #generated:7
-# view res/xml/app_links.xml #generated:8
-# view res/xml/ui_prefs.xml #generated:21
-# view res/xml/ui_prefs.xml #generated:349
-# view res/xml/ui_prefs.xml #generated:353
-# view res/xml/ui_prefs.xml #generated:358
-# view res/xml/ui_prefs.xml #generated:365
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:5
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:6
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:7
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:8
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:11
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:12
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:13
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:14
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:17
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:18
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:21
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:22
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:23
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:24
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\app_links.xml:25
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:21
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:349
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:353
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:358
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:365
 -keep class com.boostermbkking.kingrommods.v2.prefs.OpenAppPreference { <init>(...); }
 
-# view res/xml/ui_prefs.xml #generated:398
-# view res/xml/ui_prefs.xml #generated:411
-# view res/xml/ui_prefs.xml #generated:439
-# view res/xml/ui_prefs.xml #generated:446
-# view res/xml/ui_prefs.xml #generated:459
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:398
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:411
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:439
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:446
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:459
 -keep class com.boostermbkking.kingrommods.v2.prefs.RunScriptPreference { <init>(...); }
 
-# view res/xml/systemui.xml #generated:18
-# view res/xml/systemui.xml #generated:27
-# view res/xml/systemui.xml #generated:36
-# view res/xml/systemui.xml #generated:45
-# view res/xml/systemui.xml #generated:9
-# view res/xml/systemui_pro.xml #generated:18
-# view res/xml/systemui_pro.xml #generated:27
-# view res/xml/systemui_pro.xml #generated:36
-# view res/xml/systemui_pro.xml #generated:45
-# view res/xml/systemui_pro.xml #generated:9
-# view res/xml/ui_prefs.xml #generated:180
-# view res/xml/ui_prefs.xml #generated:190
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui.xml:9
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui.xml:18
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui.xml:27
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui.xml:36
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui.xml:45
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui_pro.xml:9
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui_pro.xml:18
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui_pro.xml:27
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui_pro.xml:36
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\systemui_pro.xml:45
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:180
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:190
 -keep class com.boostermbkking.kingrommods.v2.prefs.ThumbnailListPreference { <init>(...); }
 
-# view res/xml/phone_prefs.xml #generated:33
-# view res/xml/ui_prefs.xml #generated:274
-# view res/xml/ui_prefs.xml #generated:277
-# view res/xml/ui_prefs.xml #generated:280
-# view res/xml/ui_prefs.xml #generated:283
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\phone_prefs.xml:33
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar.xml:187
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\statusbar_pro.xml:150
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:274
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:277
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:280
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\xml\ui_prefs.xml:283
 -keep class com.boostermbkking.kingrommods.v2.prefs.UriSelectionPreference { <init>(...); }
 
-# view AndroidManifest.xml #generated:53
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\build\intermediates\manifests\full\release\AndroidManifest.xml:54
 -keep class com.boostermbkking.kingrommods.v2.utils.BackupRestoreIntentService { <init>(...); }
 
-# view land\res/layout-land/reboot_layout.xml #generated:40
-# view land\res/layout-land/reboot_layout.xml #generated:51
-# view land\res/layout-land/reboot_layout.xml #generated:62
-# view res/layout/reboot_layout.xml #generated:40
-# view res/layout/reboot_layout.xml #generated:49
-# view res/layout/reboot_layout.xml #generated:58
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout-land\reboot_layout.xml:40
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout-land\reboot_layout.xml:51
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout-land\reboot_layout.xml:62
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\reboot_layout.xml:40
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\reboot_layout.xml:49
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\reboot_layout.xml:58
 -keep class com.boostermbkking.kingrommods.v2.views.RebootView { <init>(...); }
 
-# view res/layout/about_contact_us_item.xml #generated:24
-# view res/layout/about_people_item.xml #generated:21
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\about_contact_us_item.xml:24
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\about_people_item.xml:21
 -keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
 
-# onClick res/layout/about_contact_us_item.xml #generated:15
-# onClick res/layout/about_people_item.xml #generated:15
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\about_contact_us_item.xml:15
+# Referenced at C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\res\layout\about_people_item.xml:15
 -keepclassmembers class * { *** onClick(...); }
 

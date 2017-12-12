@@ -661,13 +661,7 @@ android.support.design.R$drawable -> android.support.design.a$e:
     int abc_textfield_search_material -> abc_textfield_search_material
     int abc_vector_test -> abc_vector_test
     int avd_hide_password -> avd_hide_password
-    int avd_hide_password_1 -> avd_hide_password_1
-    int avd_hide_password_2 -> avd_hide_password_2
-    int avd_hide_password_3 -> avd_hide_password_3
     int avd_show_password -> avd_show_password
-    int avd_show_password_1 -> avd_show_password_1
-    int avd_show_password_2 -> avd_show_password_2
-    int avd_show_password_3 -> avd_show_password_3
     int design_bottom_navigation_item_background -> design_bottom_navigation_item_background
     int design_fab_background -> design_fab_background
     int design_ic_visibility -> design_ic_visibility
@@ -1293,8 +1287,6 @@ android.support.design.R$style -> android.support.design.a$i:
     int Widget_Design_TextInputLayout -> Widget_Design_TextInputLayout
 android.support.design.R$styleable -> android.support.design.a$j:
     int[] ActionBar -> ActionBar
-    int[] ActionBarLayout -> ActionBarLayout
-    int ActionBarLayout_android_layout_gravity -> ActionBarLayout_android_layout_gravity
     int ActionBar_background -> ActionBar_background
     int ActionBar_backgroundSplit -> ActionBar_backgroundSplit
     int ActionBar_backgroundStacked -> ActionBar_backgroundStacked
@@ -1324,6 +1316,8 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int ActionBar_subtitleTextStyle -> ActionBar_subtitleTextStyle
     int ActionBar_title -> ActionBar_title
     int ActionBar_titleTextStyle -> ActionBar_titleTextStyle
+    int[] ActionBarLayout -> ActionBarLayout
+    int ActionBarLayout_android_layout_gravity -> ActionBarLayout_android_layout_gravity
     int[] ActionMenuItemView -> ActionMenuItemView
     int ActionMenuItemView_android_minWidth -> ActionMenuItemView_android_minWidth
     int[] ActionMenuView -> ActionMenuView
@@ -1346,15 +1340,15 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int AlertDialog_showTitle -> AlertDialog_showTitle
     int AlertDialog_singleChoiceItemLayout -> AlertDialog_singleChoiceItemLayout
     int[] AppBarLayout -> AppBarLayout
+    int AppBarLayout_android_background -> AppBarLayout_android_background
+    int AppBarLayout_elevation -> AppBarLayout_elevation
+    int AppBarLayout_expanded -> AppBarLayout_expanded
     int[] AppBarLayoutStates -> AppBarLayoutStates
     int AppBarLayoutStates_state_collapsed -> AppBarLayoutStates_state_collapsed
     int AppBarLayoutStates_state_collapsible -> AppBarLayoutStates_state_collapsible
     int[] AppBarLayout_Layout -> AppBarLayout_Layout
     int AppBarLayout_Layout_layout_scrollFlags -> AppBarLayout_Layout_layout_scrollFlags
     int AppBarLayout_Layout_layout_scrollInterpolator -> AppBarLayout_Layout_layout_scrollInterpolator
-    int AppBarLayout_android_background -> AppBarLayout_android_background
-    int AppBarLayout_elevation -> AppBarLayout_elevation
-    int AppBarLayout_expanded -> AppBarLayout_expanded
     int[] AppCompatImageView -> AppCompatImageView
     int AppCompatImageView_android_src -> AppCompatImageView_android_src
     int AppCompatImageView_srcCompat -> AppCompatImageView_srcCompat
@@ -1364,17 +1358,19 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int AppCompatSeekBar_tickMarkTint -> AppCompatSeekBar_tickMarkTint
     int AppCompatSeekBar_tickMarkTintMode -> AppCompatSeekBar_tickMarkTintMode
     int[] AppCompatTextHelper -> AppCompatTextHelper
+    int AppCompatTextHelper_android_textAppearance -> AppCompatTextHelper_android_textAppearance
+    int AppCompatTextHelper_android_drawableTop -> AppCompatTextHelper_android_drawableTop
     int AppCompatTextHelper_android_drawableBottom -> AppCompatTextHelper_android_drawableBottom
-    int AppCompatTextHelper_android_drawableEnd -> AppCompatTextHelper_android_drawableEnd
     int AppCompatTextHelper_android_drawableLeft -> AppCompatTextHelper_android_drawableLeft
     int AppCompatTextHelper_android_drawableRight -> AppCompatTextHelper_android_drawableRight
     int AppCompatTextHelper_android_drawableStart -> AppCompatTextHelper_android_drawableStart
-    int AppCompatTextHelper_android_drawableTop -> AppCompatTextHelper_android_drawableTop
-    int AppCompatTextHelper_android_textAppearance -> AppCompatTextHelper_android_textAppearance
+    int AppCompatTextHelper_android_drawableEnd -> AppCompatTextHelper_android_drawableEnd
     int[] AppCompatTextView -> AppCompatTextView
     int AppCompatTextView_android_textAppearance -> AppCompatTextView_android_textAppearance
     int AppCompatTextView_textAllCaps -> AppCompatTextView_textAllCaps
     int[] AppCompatTheme -> AppCompatTheme
+    int AppCompatTheme_android_windowIsFloating -> AppCompatTheme_android_windowIsFloating
+    int AppCompatTheme_android_windowAnimationStyle -> AppCompatTheme_android_windowAnimationStyle
     int AppCompatTheme_actionBarDivider -> AppCompatTheme_actionBarDivider
     int AppCompatTheme_actionBarItemBackground -> AppCompatTheme_actionBarItemBackground
     int AppCompatTheme_actionBarPopupTheme -> AppCompatTheme_actionBarPopupTheme
@@ -1410,8 +1406,6 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int AppCompatTheme_alertDialogCenterButtons -> AppCompatTheme_alertDialogCenterButtons
     int AppCompatTheme_alertDialogStyle -> AppCompatTheme_alertDialogStyle
     int AppCompatTheme_alertDialogTheme -> AppCompatTheme_alertDialogTheme
-    int AppCompatTheme_android_windowAnimationStyle -> AppCompatTheme_android_windowAnimationStyle
-    int AppCompatTheme_android_windowIsFloating -> AppCompatTheme_android_windowIsFloating
     int AppCompatTheme_autoCompleteTextViewStyle -> AppCompatTheme_autoCompleteTextViewStyle
     int AppCompatTheme_borderlessButtonStyle -> AppCompatTheme_borderlessButtonStyle
     int AppCompatTheme_buttonBarButtonStyle -> AppCompatTheme_buttonBarButtonStyle
@@ -1503,9 +1497,6 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int[] ButtonBarLayout -> ButtonBarLayout
     int ButtonBarLayout_allowStacking -> ButtonBarLayout_allowStacking
     int[] CollapsingToolbarLayout -> CollapsingToolbarLayout
-    int[] CollapsingToolbarLayout_Layout -> CollapsingToolbarLayout_Layout
-    int CollapsingToolbarLayout_Layout_layout_collapseMode -> CollapsingToolbarLayout_Layout_layout_collapseMode
-    int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier -> CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
     int CollapsingToolbarLayout_collapsedTitleGravity -> CollapsingToolbarLayout_collapsedTitleGravity
     int CollapsingToolbarLayout_collapsedTitleTextAppearance -> CollapsingToolbarLayout_collapsedTitleTextAppearance
     int CollapsingToolbarLayout_contentScrim -> CollapsingToolbarLayout_contentScrim
@@ -1522,15 +1513,20 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int CollapsingToolbarLayout_title -> CollapsingToolbarLayout_title
     int CollapsingToolbarLayout_titleEnabled -> CollapsingToolbarLayout_titleEnabled
     int CollapsingToolbarLayout_toolbarId -> CollapsingToolbarLayout_toolbarId
+    int[] CollapsingToolbarLayout_Layout -> CollapsingToolbarLayout_Layout
+    int CollapsingToolbarLayout_Layout_layout_collapseMode -> CollapsingToolbarLayout_Layout_layout_collapseMode
+    int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier -> CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
     int[] ColorStateListItem -> ColorStateListItem
-    int ColorStateListItem_alpha -> ColorStateListItem_alpha
-    int ColorStateListItem_android_alpha -> ColorStateListItem_android_alpha
     int ColorStateListItem_android_color -> ColorStateListItem_android_color
+    int ColorStateListItem_android_alpha -> ColorStateListItem_android_alpha
+    int ColorStateListItem_alpha -> ColorStateListItem_alpha
     int[] CompoundButton -> CompoundButton
     int CompoundButton_android_button -> CompoundButton_android_button
     int CompoundButton_buttonTint -> CompoundButton_buttonTint
     int CompoundButton_buttonTintMode -> CompoundButton_buttonTintMode
     int[] CoordinatorLayout -> CoordinatorLayout
+    int CoordinatorLayout_keylines -> CoordinatorLayout_keylines
+    int CoordinatorLayout_statusBarBackground -> CoordinatorLayout_statusBarBackground
     int[] CoordinatorLayout_Layout -> CoordinatorLayout_Layout
     int CoordinatorLayout_Layout_android_layout_gravity -> CoordinatorLayout_Layout_android_layout_gravity
     int CoordinatorLayout_Layout_layout_anchor -> CoordinatorLayout_Layout_layout_anchor
@@ -1539,8 +1535,6 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int CoordinatorLayout_Layout_layout_dodgeInsetEdges -> CoordinatorLayout_Layout_layout_dodgeInsetEdges
     int CoordinatorLayout_Layout_layout_insetEdge -> CoordinatorLayout_Layout_layout_insetEdge
     int CoordinatorLayout_Layout_layout_keyline -> CoordinatorLayout_Layout_layout_keyline
-    int CoordinatorLayout_keylines -> CoordinatorLayout_keylines
-    int CoordinatorLayout_statusBarBackground -> CoordinatorLayout_statusBarBackground
     int[] DesignTheme -> DesignTheme
     int DesignTheme_bottomSheetDialogTheme -> DesignTheme_bottomSheetDialogTheme
     int DesignTheme_bottomSheetStyle -> DesignTheme_bottomSheetStyle
@@ -1555,8 +1549,6 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int DrawerArrowToggle_spinBars -> DrawerArrowToggle_spinBars
     int DrawerArrowToggle_thickness -> DrawerArrowToggle_thickness
     int[] FloatingActionButton -> FloatingActionButton
-    int[] FloatingActionButton_Behavior_Layout -> FloatingActionButton_Behavior_Layout
-    int FloatingActionButton_Behavior_Layout_behavior_autoHide -> FloatingActionButton_Behavior_Layout_behavior_autoHide
     int FloatingActionButton_backgroundTint -> FloatingActionButton_backgroundTint
     int FloatingActionButton_backgroundTintMode -> FloatingActionButton_backgroundTintMode
     int FloatingActionButton_borderWidth -> FloatingActionButton_borderWidth
@@ -1565,63 +1557,65 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int FloatingActionButton_pressedTranslationZ -> FloatingActionButton_pressedTranslationZ
     int FloatingActionButton_rippleColor -> FloatingActionButton_rippleColor
     int FloatingActionButton_useCompatPadding -> FloatingActionButton_useCompatPadding
+    int[] FloatingActionButton_Behavior_Layout -> FloatingActionButton_Behavior_Layout
+    int FloatingActionButton_Behavior_Layout_behavior_autoHide -> FloatingActionButton_Behavior_Layout_behavior_autoHide
     int[] ForegroundLinearLayout -> ForegroundLinearLayout
     int ForegroundLinearLayout_android_foreground -> ForegroundLinearLayout_android_foreground
     int ForegroundLinearLayout_android_foregroundGravity -> ForegroundLinearLayout_android_foregroundGravity
     int ForegroundLinearLayout_foregroundInsidePadding -> ForegroundLinearLayout_foregroundInsidePadding
     int[] LinearLayoutCompat -> LinearLayoutCompat
-    int[] LinearLayoutCompat_Layout -> LinearLayoutCompat_Layout
-    int LinearLayoutCompat_Layout_android_layout_gravity -> LinearLayoutCompat_Layout_android_layout_gravity
-    int LinearLayoutCompat_Layout_android_layout_height -> LinearLayoutCompat_Layout_android_layout_height
-    int LinearLayoutCompat_Layout_android_layout_weight -> LinearLayoutCompat_Layout_android_layout_weight
-    int LinearLayoutCompat_Layout_android_layout_width -> LinearLayoutCompat_Layout_android_layout_width
-    int LinearLayoutCompat_android_baselineAligned -> LinearLayoutCompat_android_baselineAligned
-    int LinearLayoutCompat_android_baselineAlignedChildIndex -> LinearLayoutCompat_android_baselineAlignedChildIndex
     int LinearLayoutCompat_android_gravity -> LinearLayoutCompat_android_gravity
     int LinearLayoutCompat_android_orientation -> LinearLayoutCompat_android_orientation
+    int LinearLayoutCompat_android_baselineAligned -> LinearLayoutCompat_android_baselineAligned
+    int LinearLayoutCompat_android_baselineAlignedChildIndex -> LinearLayoutCompat_android_baselineAlignedChildIndex
     int LinearLayoutCompat_android_weightSum -> LinearLayoutCompat_android_weightSum
     int LinearLayoutCompat_divider -> LinearLayoutCompat_divider
     int LinearLayoutCompat_dividerPadding -> LinearLayoutCompat_dividerPadding
     int LinearLayoutCompat_measureWithLargestChild -> LinearLayoutCompat_measureWithLargestChild
     int LinearLayoutCompat_showDividers -> LinearLayoutCompat_showDividers
+    int[] LinearLayoutCompat_Layout -> LinearLayoutCompat_Layout
+    int LinearLayoutCompat_Layout_android_layout_gravity -> LinearLayoutCompat_Layout_android_layout_gravity
+    int LinearLayoutCompat_Layout_android_layout_width -> LinearLayoutCompat_Layout_android_layout_width
+    int LinearLayoutCompat_Layout_android_layout_height -> LinearLayoutCompat_Layout_android_layout_height
+    int LinearLayoutCompat_Layout_android_layout_weight -> LinearLayoutCompat_Layout_android_layout_weight
     int[] ListPopupWindow -> ListPopupWindow
     int ListPopupWindow_android_dropDownHorizontalOffset -> ListPopupWindow_android_dropDownHorizontalOffset
     int ListPopupWindow_android_dropDownVerticalOffset -> ListPopupWindow_android_dropDownVerticalOffset
     int[] MenuGroup -> MenuGroup
-    int MenuGroup_android_checkableBehavior -> MenuGroup_android_checkableBehavior
     int MenuGroup_android_enabled -> MenuGroup_android_enabled
     int MenuGroup_android_id -> MenuGroup_android_id
+    int MenuGroup_android_visible -> MenuGroup_android_visible
     int MenuGroup_android_menuCategory -> MenuGroup_android_menuCategory
     int MenuGroup_android_orderInCategory -> MenuGroup_android_orderInCategory
-    int MenuGroup_android_visible -> MenuGroup_android_visible
+    int MenuGroup_android_checkableBehavior -> MenuGroup_android_checkableBehavior
     int[] MenuItem -> MenuItem
-    int MenuItem_actionLayout -> MenuItem_actionLayout
-    int MenuItem_actionProviderClass -> MenuItem_actionProviderClass
-    int MenuItem_actionViewClass -> MenuItem_actionViewClass
-    int MenuItem_android_alphabeticShortcut -> MenuItem_android_alphabeticShortcut
-    int MenuItem_android_checkable -> MenuItem_android_checkable
-    int MenuItem_android_checked -> MenuItem_android_checked
-    int MenuItem_android_enabled -> MenuItem_android_enabled
     int MenuItem_android_icon -> MenuItem_android_icon
+    int MenuItem_android_enabled -> MenuItem_android_enabled
     int MenuItem_android_id -> MenuItem_android_id
+    int MenuItem_android_checked -> MenuItem_android_checked
+    int MenuItem_android_visible -> MenuItem_android_visible
     int MenuItem_android_menuCategory -> MenuItem_android_menuCategory
-    int MenuItem_android_numericShortcut -> MenuItem_android_numericShortcut
-    int MenuItem_android_onClick -> MenuItem_android_onClick
     int MenuItem_android_orderInCategory -> MenuItem_android_orderInCategory
     int MenuItem_android_title -> MenuItem_android_title
     int MenuItem_android_titleCondensed -> MenuItem_android_titleCondensed
-    int MenuItem_android_visible -> MenuItem_android_visible
+    int MenuItem_android_alphabeticShortcut -> MenuItem_android_alphabeticShortcut
+    int MenuItem_android_numericShortcut -> MenuItem_android_numericShortcut
+    int MenuItem_android_checkable -> MenuItem_android_checkable
+    int MenuItem_android_onClick -> MenuItem_android_onClick
+    int MenuItem_actionLayout -> MenuItem_actionLayout
+    int MenuItem_actionProviderClass -> MenuItem_actionProviderClass
+    int MenuItem_actionViewClass -> MenuItem_actionViewClass
     int MenuItem_contentDescription -> MenuItem_contentDescription
     int MenuItem_showAsAction -> MenuItem_showAsAction
     int MenuItem_tooltipText -> MenuItem_tooltipText
     int[] MenuView -> MenuView
-    int MenuView_android_headerBackground -> MenuView_android_headerBackground
+    int MenuView_android_windowAnimationStyle -> MenuView_android_windowAnimationStyle
+    int MenuView_android_itemTextAppearance -> MenuView_android_itemTextAppearance
     int MenuView_android_horizontalDivider -> MenuView_android_horizontalDivider
+    int MenuView_android_verticalDivider -> MenuView_android_verticalDivider
+    int MenuView_android_headerBackground -> MenuView_android_headerBackground
     int MenuView_android_itemBackground -> MenuView_android_itemBackground
     int MenuView_android_itemIconDisabledAlpha -> MenuView_android_itemIconDisabledAlpha
-    int MenuView_android_itemTextAppearance -> MenuView_android_itemTextAppearance
-    int MenuView_android_verticalDivider -> MenuView_android_verticalDivider
-    int MenuView_android_windowAnimationStyle -> MenuView_android_windowAnimationStyle
     int MenuView_preserveIconSpacing -> MenuView_preserveIconSpacing
     int MenuView_subMenuArrow -> MenuView_subMenuArrow
     int[] NavigationView -> NavigationView
@@ -1636,17 +1630,17 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int NavigationView_itemTextColor -> NavigationView_itemTextColor
     int NavigationView_menu -> NavigationView_menu
     int[] PopupWindow -> PopupWindow
+    int PopupWindow_android_popupBackground -> PopupWindow_android_popupBackground
+    int PopupWindow_android_popupAnimationStyle -> PopupWindow_android_popupAnimationStyle
+    int PopupWindow_overlapAnchor -> PopupWindow_overlapAnchor
     int[] PopupWindowBackgroundState -> PopupWindowBackgroundState
     int PopupWindowBackgroundState_state_above_anchor -> PopupWindowBackgroundState_state_above_anchor
-    int PopupWindow_android_popupAnimationStyle -> PopupWindow_android_popupAnimationStyle
-    int PopupWindow_android_popupBackground -> PopupWindow_android_popupBackground
-    int PopupWindow_overlapAnchor -> PopupWindow_overlapAnchor
     int[] RecycleListView -> RecycleListView
     int RecycleListView_paddingBottomNoButtons -> RecycleListView_paddingBottomNoButtons
     int RecycleListView_paddingTopNoTitle -> RecycleListView_paddingTopNoTitle
     int[] RecyclerView -> RecyclerView
-    int RecyclerView_android_descendantFocusability -> RecyclerView_android_descendantFocusability
     int RecyclerView_android_orientation -> RecyclerView_android_orientation
+    int RecyclerView_android_descendantFocusability -> RecyclerView_android_descendantFocusability
     int RecyclerView_fastScrollEnabled -> RecyclerView_fastScrollEnabled
     int RecyclerView_fastScrollHorizontalThumbDrawable -> RecyclerView_fastScrollHorizontalThumbDrawable
     int RecyclerView_fastScrollHorizontalTrackDrawable -> RecyclerView_fastScrollHorizontalTrackDrawable
@@ -1662,9 +1656,9 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int ScrollingViewBehavior_Layout_behavior_overlapTop -> ScrollingViewBehavior_Layout_behavior_overlapTop
     int[] SearchView -> SearchView
     int SearchView_android_focusable -> SearchView_android_focusable
-    int SearchView_android_imeOptions -> SearchView_android_imeOptions
-    int SearchView_android_inputType -> SearchView_android_inputType
     int SearchView_android_maxWidth -> SearchView_android_maxWidth
+    int SearchView_android_inputType -> SearchView_android_inputType
+    int SearchView_android_imeOptions -> SearchView_android_imeOptions
     int SearchView_closeIcon -> SearchView_closeIcon
     int SearchView_commitIcon -> SearchView_commitIcon
     int SearchView_defaultQueryHint -> SearchView_defaultQueryHint
@@ -1683,14 +1677,14 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int SnackbarLayout_elevation -> SnackbarLayout_elevation
     int SnackbarLayout_maxActionInlineWidth -> SnackbarLayout_maxActionInlineWidth
     int[] Spinner -> Spinner
-    int Spinner_android_dropDownWidth -> Spinner_android_dropDownWidth
     int Spinner_android_entries -> Spinner_android_entries
     int Spinner_android_popupBackground -> Spinner_android_popupBackground
     int Spinner_android_prompt -> Spinner_android_prompt
+    int Spinner_android_dropDownWidth -> Spinner_android_dropDownWidth
     int Spinner_popupTheme -> Spinner_popupTheme
     int[] SwitchCompat -> SwitchCompat
-    int SwitchCompat_android_textOff -> SwitchCompat_android_textOff
     int SwitchCompat_android_textOn -> SwitchCompat_android_textOn
+    int SwitchCompat_android_textOff -> SwitchCompat_android_textOff
     int SwitchCompat_android_thumb -> SwitchCompat_android_thumb
     int SwitchCompat_showText -> SwitchCompat_showText
     int SwitchCompat_splitTrack -> SwitchCompat_splitTrack
@@ -1725,19 +1719,19 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int TabLayout_tabTextAppearance -> TabLayout_tabTextAppearance
     int TabLayout_tabTextColor -> TabLayout_tabTextColor
     int[] TextAppearance -> TextAppearance
+    int TextAppearance_android_textSize -> TextAppearance_android_textSize
+    int TextAppearance_android_typeface -> TextAppearance_android_typeface
+    int TextAppearance_android_textStyle -> TextAppearance_android_textStyle
+    int TextAppearance_android_textColor -> TextAppearance_android_textColor
+    int TextAppearance_android_textColorHint -> TextAppearance_android_textColorHint
     int TextAppearance_android_shadowColor -> TextAppearance_android_shadowColor
     int TextAppearance_android_shadowDx -> TextAppearance_android_shadowDx
     int TextAppearance_android_shadowDy -> TextAppearance_android_shadowDy
     int TextAppearance_android_shadowRadius -> TextAppearance_android_shadowRadius
-    int TextAppearance_android_textColor -> TextAppearance_android_textColor
-    int TextAppearance_android_textColorHint -> TextAppearance_android_textColorHint
-    int TextAppearance_android_textSize -> TextAppearance_android_textSize
-    int TextAppearance_android_textStyle -> TextAppearance_android_textStyle
-    int TextAppearance_android_typeface -> TextAppearance_android_typeface
     int TextAppearance_textAllCaps -> TextAppearance_textAllCaps
     int[] TextInputLayout -> TextInputLayout
-    int TextInputLayout_android_hint -> TextInputLayout_android_hint
     int TextInputLayout_android_textColorHint -> TextInputLayout_android_textColorHint
+    int TextInputLayout_android_hint -> TextInputLayout_android_hint
     int TextInputLayout_counterEnabled -> TextInputLayout_counterEnabled
     int TextInputLayout_counterMaxLength -> TextInputLayout_counterMaxLength
     int TextInputLayout_counterOverflowTextAppearance -> TextInputLayout_counterOverflowTextAppearance
@@ -1783,19 +1777,19 @@ android.support.design.R$styleable -> android.support.design.a$j:
     int Toolbar_titleTextAppearance -> Toolbar_titleTextAppearance
     int Toolbar_titleTextColor -> Toolbar_titleTextColor
     int[] View -> View
+    int View_android_theme -> View_android_theme
+    int View_android_focusable -> View_android_focusable
+    int View_paddingEnd -> View_paddingEnd
+    int View_paddingStart -> View_paddingStart
+    int View_theme -> View_theme
     int[] ViewBackgroundHelper -> ViewBackgroundHelper
     int ViewBackgroundHelper_android_background -> ViewBackgroundHelper_android_background
     int ViewBackgroundHelper_backgroundTint -> ViewBackgroundHelper_backgroundTint
     int ViewBackgroundHelper_backgroundTintMode -> ViewBackgroundHelper_backgroundTintMode
     int[] ViewStubCompat -> ViewStubCompat
     int ViewStubCompat_android_id -> ViewStubCompat_android_id
-    int ViewStubCompat_android_inflatedId -> ViewStubCompat_android_inflatedId
     int ViewStubCompat_android_layout -> ViewStubCompat_android_layout
-    int View_android_focusable -> View_android_focusable
-    int View_android_theme -> View_android_theme
-    int View_paddingEnd -> View_paddingEnd
-    int View_paddingStart -> View_paddingStart
-    int View_theme -> View_theme
+    int ViewStubCompat_android_inflatedId -> ViewStubCompat_android_inflatedId
     void <clinit>() -> <clinit>
 android.support.design.internal.BaselineLayout -> android.support.design.internal.BaselineLayout:
     int mBaseline -> a
@@ -3420,20 +3414,33 @@ android.support.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateSta
     int getChangingConfigurations() -> getChangingConfigurations
 android.support.v4.app.ActivityCompat -> android.support.v4.a.a:
     void finishAffinity(android.app.Activity) -> a
-android.support.v4.app.AppOpsManagerCompat -> android.support.v4.a.b:
+    void requestPermissions$7edde54b(android.app.Activity,java.lang.String[]) -> a
+    boolean shouldShowRequestPermissionRationale(android.app.Activity,java.lang.String) -> a
+android.support.v4.app.ActivityCompat$1 -> android.support.v4.a.a$1:
+    java.lang.String[] val$permissions -> a
+    android.app.Activity val$activity -> b
+    int val$requestCode -> c
+    void <init>(java.lang.String[],android.app.Activity) -> <init>
+    void run() -> run
+android.support.v4.app.ActivityCompat$OnRequestPermissionsResultCallback -> android.support.v4.a.a$a:
+    void onRequestPermissionsResult(int,java.lang.String[],int[]) -> onRequestPermissionsResult
+android.support.v4.app.ActivityCompatApi23 -> android.support.v4.a.b:
+android.support.v4.app.ActivityCompatApi23$RequestPermissionsRequestCodeValidator -> android.support.v4.a.b$a:
+    void validateRequestPermissionsRequestCode$13462e() -> b_
+android.support.v4.app.AppOpsManagerCompat -> android.support.v4.a.c:
     android.support.v4.app.AppOpsManagerCompat$AppOpsManagerImpl IMPL -> a
     java.lang.String permissionToOp(java.lang.String) -> a
     int noteProxyOp(android.content.Context,java.lang.String,java.lang.String) -> a
     void <clinit>() -> <clinit>
-android.support.v4.app.AppOpsManagerCompat$AppOpsManager23 -> android.support.v4.a.b$a:
+android.support.v4.app.AppOpsManagerCompat$AppOpsManager23 -> android.support.v4.a.c$a:
     void <init>() -> <init>
     java.lang.String permissionToOp(java.lang.String) -> a
     int noteProxyOp(android.content.Context,java.lang.String,java.lang.String) -> a
-android.support.v4.app.AppOpsManagerCompat$AppOpsManagerImpl -> android.support.v4.a.b$b:
+android.support.v4.app.AppOpsManagerCompat$AppOpsManagerImpl -> android.support.v4.a.c$b:
     void <init>() -> <init>
     java.lang.String permissionToOp(java.lang.String) -> a
     int noteProxyOp(android.content.Context,java.lang.String,java.lang.String) -> a
-android.support.v4.app.BackStackRecord -> android.support.v4.a.c:
+android.support.v4.app.BackStackRecord -> android.support.v4.a.d:
     boolean SUPPORTS_TRANSITIONS -> a
     android.support.v4.app.FragmentManagerImpl mManager -> b
     java.util.ArrayList mOps -> c
@@ -3472,7 +3479,7 @@ android.support.v4.app.BackStackRecord -> android.support.v4.a.c:
     void setOnStartPostponedListener(android.support.v4.app.Fragment$OnStartEnterTransitionListener) -> a
     boolean isFragmentPostponed(android.support.v4.app.BackStackRecord$Op) -> a
     void <clinit>() -> <clinit>
-android.support.v4.app.BackStackRecord$Op -> android.support.v4.a.c$a:
+android.support.v4.app.BackStackRecord$Op -> android.support.v4.a.d$a:
     int cmd -> a
     android.support.v4.app.Fragment fragment -> b
     int enterAnim -> c
@@ -3481,7 +3488,7 @@ android.support.v4.app.BackStackRecord$Op -> android.support.v4.a.c$a:
     int popExitAnim -> f
     void <init>() -> <init>
     void <init>(int,android.support.v4.app.Fragment) -> <init>
-android.support.v4.app.BackStackState -> android.support.v4.a.d:
+android.support.v4.app.BackStackState -> android.support.v4.a.e:
     int[] mOps -> a
     int mTransition -> b
     int mTransitionStyle -> c
@@ -3501,11 +3508,11 @@ android.support.v4.app.BackStackState -> android.support.v4.a.d:
     int describeContents() -> describeContents
     void writeToParcel(android.os.Parcel,int) -> writeToParcel
     void <clinit>() -> <clinit>
-android.support.v4.app.BackStackState$1 -> android.support.v4.a.d$1:
+android.support.v4.app.BackStackState$1 -> android.support.v4.a.e$1:
     void <init>() -> <init>
     java.lang.Object[] newArray(int) -> newArray
     java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
-android.support.v4.app.BaseFragmentActivityApi14 -> android.support.v4.a.e:
+android.support.v4.app.BaseFragmentActivityApi14 -> android.support.v4.a.f:
     boolean mStartedIntentSenderFromFragment -> a
     void <init>() -> <init>
     android.view.View onCreateView(android.view.View,java.lang.String,android.content.Context,android.util.AttributeSet) -> onCreateView
@@ -3513,12 +3520,12 @@ android.support.v4.app.BaseFragmentActivityApi14 -> android.support.v4.a.e:
     android.view.View dispatchFragmentsOnCreateView(android.view.View,java.lang.String,android.content.Context,android.util.AttributeSet) -> a
     void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int) -> startIntentSenderForResult
     void checkForValidRequestCode(int) -> a
-android.support.v4.app.BaseFragmentActivityJB -> android.support.v4.a.f:
+android.support.v4.app.BaseFragmentActivityJB -> android.support.v4.a.g:
     boolean mStartedActivityFromFragment -> b
     void <init>() -> <init>
     void startActivityForResult(android.content.Intent,int,android.os.Bundle) -> startActivityForResult
     void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int,android.os.Bundle) -> startIntentSenderForResult
-android.support.v4.app.Fragment -> android.support.v4.a.g:
+android.support.v4.app.Fragment -> android.support.v4.a.h:
     android.support.v4.util.SimpleArrayMap sClassMap -> S
     java.lang.Object USE_DEFAULT_TRANSITION -> a
     int mState -> b
@@ -3614,17 +3621,17 @@ android.support.v4.app.Fragment -> android.support.v4.a.g:
     void setHideReplaced(boolean) -> a
     void access$800(android.support.v4.app.Fragment) -> a
     void <clinit>() -> <clinit>
-android.support.v4.app.Fragment$1 -> android.support.v4.a.g$1:
+android.support.v4.app.Fragment$1 -> android.support.v4.a.h$1:
     android.support.v4.app.Fragment this$0 -> a
     void <init>(android.support.v4.app.Fragment) -> <init>
     void run() -> run
-android.support.v4.app.Fragment$2 -> android.support.v4.a.g$2:
+android.support.v4.app.Fragment$2 -> android.support.v4.a.h$2:
     android.support.v4.app.Fragment this$0 -> a
     void <init>(android.support.v4.app.Fragment) -> <init>
     android.view.View onFindViewById(int) -> a
     boolean onHasView() -> a
     android.support.v4.app.Fragment instantiate(android.content.Context,java.lang.String,android.os.Bundle) -> a
-android.support.v4.app.Fragment$AnimationInfo -> android.support.v4.a.g$a:
+android.support.v4.app.Fragment$AnimationInfo -> android.support.v4.a.h$a:
     android.view.View mAnimatingAway -> a
     int mStateAfterAnimating -> b
     int mNextAnim -> c
@@ -3644,12 +3651,12 @@ android.support.v4.app.Fragment$AnimationInfo -> android.support.v4.a.g$a:
     android.support.v4.app.Fragment$OnStartEnterTransitionListener mStartEnterTransitionListener -> q
     boolean mIsHideReplaced -> r
     void <init>() -> <init>
-android.support.v4.app.Fragment$InstantiationException -> android.support.v4.a.g$b:
+android.support.v4.app.Fragment$InstantiationException -> android.support.v4.a.h$b:
     void <init>(java.lang.String,java.lang.Exception) -> <init>
-android.support.v4.app.Fragment$OnStartEnterTransitionListener -> android.support.v4.a.g$c:
+android.support.v4.app.Fragment$OnStartEnterTransitionListener -> android.support.v4.a.h$c:
     void onStartEnterTransition() -> a
     void startListening() -> b
-android.support.v4.app.FragmentActivity -> android.support.v4.a.h:
+android.support.v4.app.FragmentActivity -> android.support.v4.a.i:
     android.os.Handler mHandler -> c
     android.support.v4.app.FragmentController mFragments -> d
     boolean mCreated -> e
@@ -3657,8 +3664,9 @@ android.support.v4.app.FragmentActivity -> android.support.v4.a.h:
     boolean mStopped -> g
     boolean mReallyStopped -> h
     boolean mRetaining -> i
-    int mNextCandidateRequestIndex -> j
-    android.support.v4.util.SparseArrayCompat mPendingFragmentActivityResults -> k
+    boolean mRequestedPermissionsFromFragment -> j
+    int mNextCandidateRequestIndex -> k
+    android.support.v4.util.SparseArrayCompat mPendingFragmentActivityResults -> l
     void <init>() -> <init>
     void onActivityResult(int,int,android.content.Intent) -> onActivityResult
     void onBackPressed() -> onBackPressed
@@ -3683,21 +3691,22 @@ android.support.v4.app.FragmentActivity -> android.support.v4.a.h:
     void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
     void onStart() -> onStart
     void onStop() -> onStop
-    void supportInvalidateOptionsMenu() -> b
+    void supportInvalidateOptionsMenu() -> c
     void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> dump
     void doReallyStop(boolean) -> a
     void startActivityForResult(android.content.Intent,int) -> startActivityForResult
+    void validateRequestPermissionsRequestCode$13462e() -> b_
     void onRequestPermissionsResult(int,java.lang.String[],int[]) -> onRequestPermissionsResult
     void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int,android.os.Bundle) -> startIntentSenderForResult
     void startActivityForResult(android.content.Intent,int,android.os.Bundle) -> startActivityForResult
     void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int) -> startIntentSenderForResult
     android.view.View onCreateView(java.lang.String,android.content.Context,android.util.AttributeSet) -> onCreateView
     android.view.View onCreateView(android.view.View,java.lang.String,android.content.Context,android.util.AttributeSet) -> onCreateView
-android.support.v4.app.FragmentActivity$1 -> android.support.v4.a.h$1:
+android.support.v4.app.FragmentActivity$1 -> android.support.v4.a.i$1:
     android.support.v4.app.FragmentActivity this$0 -> a
     void <init>(android.support.v4.app.FragmentActivity) -> <init>
     void handleMessage(android.os.Message) -> handleMessage
-android.support.v4.app.FragmentActivity$HostCallbacks -> android.support.v4.a.h$a:
+android.support.v4.app.FragmentActivity$HostCallbacks -> android.support.v4.a.i$a:
     android.support.v4.app.FragmentActivity this$0 -> a
     void <init>(android.support.v4.app.FragmentActivity) -> <init>
     void onDump$ec96877(java.lang.String,java.io.PrintWriter,java.lang.String[]) -> a
@@ -3708,17 +3717,17 @@ android.support.v4.app.FragmentActivity$HostCallbacks -> android.support.v4.a.h$
     int onGetWindowAnimations() -> f
     android.view.View onFindViewById(int) -> a
     boolean onHasView() -> a
-android.support.v4.app.FragmentActivity$NonConfigurationInstances -> android.support.v4.a.h$b:
+android.support.v4.app.FragmentActivity$NonConfigurationInstances -> android.support.v4.a.i$b:
     java.lang.Object custom -> a
     android.support.v4.app.FragmentManagerNonConfig fragments -> b
     android.support.v4.util.SimpleArrayMap loaders -> c
     void <init>() -> <init>
-android.support.v4.app.FragmentContainer -> android.support.v4.a.i:
+android.support.v4.app.FragmentContainer -> android.support.v4.a.j:
     void <init>() -> <init>
     android.view.View onFindViewById(int) -> a
     boolean onHasView() -> a
     android.support.v4.app.Fragment instantiate(android.content.Context,java.lang.String,android.os.Bundle) -> a
-android.support.v4.app.FragmentController -> android.support.v4.a.j:
+android.support.v4.app.FragmentController -> android.support.v4.a.k:
     android.support.v4.app.FragmentHostCallback mHost -> a
     void <init>(android.support.v4.app.FragmentHostCallback) -> <init>
     android.support.v4.app.Fragment findFragmentByWho(java.lang.String) -> a
@@ -3726,7 +3735,7 @@ android.support.v4.app.FragmentController -> android.support.v4.a.j:
     boolean execPendingActions() -> b
     void doLoaderStart() -> c
     void doLoaderStop(boolean) -> a
-android.support.v4.app.FragmentHostCallback -> android.support.v4.a.k:
+android.support.v4.app.FragmentHostCallback -> android.support.v4.a.l:
     android.app.Activity mActivity -> b
     android.content.Context mContext -> c
     android.os.Handler mHandler -> d
@@ -3749,11 +3758,11 @@ android.support.v4.app.FragmentHostCallback -> android.support.v4.a.k:
     boolean onHasView() -> a
     void inactivateFragment(java.lang.String) -> a
     android.support.v4.app.LoaderManagerImpl getLoaderManager$2cd5ab55(java.lang.String) -> b
-android.support.v4.app.FragmentManager -> android.support.v4.a.l:
+android.support.v4.app.FragmentManager -> android.support.v4.a.m:
     void <init>() -> <init>
     boolean popBackStackImmediate() -> a
     void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[]) -> a
-android.support.v4.app.FragmentManagerImpl -> android.support.v4.a.m:
+android.support.v4.app.FragmentManagerImpl -> android.support.v4.a.n:
     boolean DEBUG -> a
     boolean HONEYCOMB -> b
     java.util.ArrayList mPendingActions -> c
@@ -3871,16 +3880,16 @@ android.support.v4.app.FragmentManagerImpl -> android.support.v4.a.m:
     void access$200(android.support.v4.app.FragmentManagerImpl) -> a
     void access$300(android.support.v4.app.FragmentManagerImpl,android.support.v4.app.BackStackRecord,boolean,boolean,boolean) -> a
     void <clinit>() -> <clinit>
-android.support.v4.app.FragmentManagerImpl$1 -> android.support.v4.a.m$1:
+android.support.v4.app.FragmentManagerImpl$1 -> android.support.v4.a.n$1:
     android.support.v4.app.FragmentManagerImpl this$0 -> a
     void <init>(android.support.v4.app.FragmentManagerImpl) -> <init>
     void run() -> run
-android.support.v4.app.FragmentManagerImpl$2 -> android.support.v4.a.m$2:
+android.support.v4.app.FragmentManagerImpl$2 -> android.support.v4.a.n$2:
     android.support.v4.app.Fragment val$fragment -> a
     android.support.v4.app.FragmentManagerImpl this$0 -> b
     void <init>(android.support.v4.app.FragmentManagerImpl,android.view.View,android.view.animation.Animation,android.support.v4.app.Fragment) -> <init>
     void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
-android.support.v4.app.FragmentManagerImpl$AnimateOnHWLayerIfNeededListener -> android.support.v4.a.m$a:
+android.support.v4.app.FragmentManagerImpl$AnimateOnHWLayerIfNeededListener -> android.support.v4.a.n$a:
     android.view.animation.Animation$AnimationListener mOriginalListener -> a
     boolean mShouldRunOnHWLayer -> b
     android.view.View mView -> c
@@ -3889,16 +3898,16 @@ android.support.v4.app.FragmentManagerImpl$AnimateOnHWLayerIfNeededListener -> a
     void onAnimationStart(android.view.animation.Animation) -> onAnimationStart
     void onAnimationEnd(android.view.animation.Animation) -> onAnimationEnd
     void onAnimationRepeat(android.view.animation.Animation) -> onAnimationRepeat
-android.support.v4.app.FragmentManagerImpl$AnimateOnHWLayerIfNeededListener$1 -> android.support.v4.a.m$a$1:
+android.support.v4.app.FragmentManagerImpl$AnimateOnHWLayerIfNeededListener$1 -> android.support.v4.a.n$a$1:
     android.support.v4.app.FragmentManagerImpl$AnimateOnHWLayerIfNeededListener this$0 -> a
     void <init>(android.support.v4.app.FragmentManagerImpl$AnimateOnHWLayerIfNeededListener) -> <init>
     void run() -> run
-android.support.v4.app.FragmentManagerImpl$FragmentTag -> android.support.v4.a.m$b:
+android.support.v4.app.FragmentManagerImpl$FragmentTag -> android.support.v4.a.n$b:
     int[] Fragment -> a
     void <clinit>() -> <clinit>
-android.support.v4.app.FragmentManagerImpl$OpGenerator -> android.support.v4.a.m$c:
+android.support.v4.app.FragmentManagerImpl$OpGenerator -> android.support.v4.a.n$c:
     boolean generateOps(java.util.ArrayList,java.util.ArrayList) -> a
-android.support.v4.app.FragmentManagerImpl$StartEnterTransitionListener -> android.support.v4.a.m$d:
+android.support.v4.app.FragmentManagerImpl$StartEnterTransitionListener -> android.support.v4.a.n$d:
     boolean mIsBack -> a
     android.support.v4.app.BackStackRecord mRecord -> b
     int mNumPostponed -> c
@@ -3907,11 +3916,11 @@ android.support.v4.app.FragmentManagerImpl$StartEnterTransitionListener -> andro
     void startListening() -> b
     void completeTransaction() -> c
     void cancelTransaction() -> d
-android.support.v4.app.FragmentManagerNonConfig -> android.support.v4.a.n:
+android.support.v4.app.FragmentManagerNonConfig -> android.support.v4.a.o:
     java.util.List mFragments -> a
     java.util.List mChildNonConfigs -> b
     void <init>(java.util.List,java.util.List) -> <init>
-android.support.v4.app.FragmentManagerState -> android.support.v4.a.o:
+android.support.v4.app.FragmentManagerState -> android.support.v4.a.p:
     android.support.v4.app.FragmentState[] mActive -> a
     int[] mAdded -> b
     android.support.v4.app.BackStackState[] mBackStack -> c
@@ -3922,11 +3931,11 @@ android.support.v4.app.FragmentManagerState -> android.support.v4.a.o:
     int describeContents() -> describeContents
     void writeToParcel(android.os.Parcel,int) -> writeToParcel
     void <clinit>() -> <clinit>
-android.support.v4.app.FragmentManagerState$1 -> android.support.v4.a.o$1:
+android.support.v4.app.FragmentManagerState$1 -> android.support.v4.a.p$1:
     void <init>() -> <init>
     java.lang.Object[] newArray(int) -> newArray
     java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
-android.support.v4.app.FragmentState -> android.support.v4.a.p:
+android.support.v4.app.FragmentState -> android.support.v4.a.q:
     java.lang.String mClassName -> a
     int mIndex -> b
     boolean mFromLayout -> c
@@ -3945,13 +3954,13 @@ android.support.v4.app.FragmentState -> android.support.v4.a.p:
     int describeContents() -> describeContents
     void writeToParcel(android.os.Parcel,int) -> writeToParcel
     void <clinit>() -> <clinit>
-android.support.v4.app.FragmentState$1 -> android.support.v4.a.p$1:
+android.support.v4.app.FragmentState$1 -> android.support.v4.a.q$1:
     void <init>() -> <init>
     java.lang.Object[] newArray(int) -> newArray
     java.lang.Object createFromParcel(android.os.Parcel) -> createFromParcel
-android.support.v4.app.FragmentTransaction -> android.support.v4.a.q:
+android.support.v4.app.FragmentTransaction -> android.support.v4.a.r:
     void <init>() -> <init>
-android.support.v4.app.FragmentTransition -> android.support.v4.a.r:
+android.support.v4.app.FragmentTransition -> android.support.v4.a.s:
     int[] INVERSE_OPS -> a
     void startTransitions(android.support.v4.app.FragmentManagerImpl,java.util.ArrayList,java.util.ArrayList,int,int,boolean) -> a
     android.support.v4.util.ArrayMap calculateNameOverrides(int,java.util.ArrayList,java.util.ArrayList,int,int) -> a
@@ -3978,11 +3987,11 @@ android.support.v4.app.FragmentTransition -> android.support.v4.a.r:
     android.support.v4.util.ArrayMap access$300(android.support.v4.util.ArrayMap,java.lang.Object,android.support.v4.app.FragmentTransition$FragmentContainerTransition) -> a
     android.view.View access$400(android.support.v4.util.ArrayMap,android.support.v4.app.FragmentTransition$FragmentContainerTransition,java.lang.Object,boolean) -> a
     void <clinit>() -> <clinit>
-android.support.v4.app.FragmentTransition$1 -> android.support.v4.a.r$1:
+android.support.v4.app.FragmentTransition$1 -> android.support.v4.a.s$1:
     java.util.ArrayList val$exitingViews -> a
     void <init>(java.util.ArrayList) -> <init>
     void run() -> run
-android.support.v4.app.FragmentTransition$2 -> android.support.v4.a.r$2:
+android.support.v4.app.FragmentTransition$2 -> android.support.v4.a.s$2:
     java.lang.Object val$enterTransition -> a
     android.view.View val$nonExistentView -> b
     android.support.v4.app.Fragment val$inFragment -> c
@@ -3992,7 +4001,7 @@ android.support.v4.app.FragmentTransition$2 -> android.support.v4.a.r$2:
     java.lang.Object val$exitTransition -> g
     void <init>(java.lang.Object,android.view.View,android.support.v4.app.Fragment,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList,java.lang.Object) -> <init>
     void run() -> run
-android.support.v4.app.FragmentTransition$3 -> android.support.v4.a.r$3:
+android.support.v4.app.FragmentTransition$3 -> android.support.v4.a.s$3:
     android.support.v4.app.Fragment val$inFragment -> a
     android.support.v4.app.Fragment val$outFragment -> b
     boolean val$inIsPop -> c
@@ -4001,7 +4010,7 @@ android.support.v4.app.FragmentTransition$3 -> android.support.v4.a.r$3:
     android.graphics.Rect val$epicenter -> f
     void <init>(android.support.v4.app.Fragment,android.support.v4.app.Fragment,boolean,android.support.v4.util.ArrayMap,android.view.View,android.graphics.Rect) -> <init>
     void run() -> run
-android.support.v4.app.FragmentTransition$4 -> android.support.v4.a.r$4:
+android.support.v4.app.FragmentTransition$4 -> android.support.v4.a.s$4:
     android.support.v4.util.ArrayMap val$nameOverrides -> a
     java.lang.Object val$finalSharedElementTransition -> b
     android.support.v4.app.FragmentTransition$FragmentContainerTransition val$fragments -> c
@@ -4015,7 +4024,7 @@ android.support.v4.app.FragmentTransition$4 -> android.support.v4.a.r$4:
     android.graphics.Rect val$inEpicenter -> k
     void <init>(android.support.v4.util.ArrayMap,java.lang.Object,android.support.v4.app.FragmentTransition$FragmentContainerTransition,java.util.ArrayList,android.view.View,android.support.v4.app.Fragment,android.support.v4.app.Fragment,boolean,java.util.ArrayList,java.lang.Object,android.graphics.Rect) -> <init>
     void run() -> run
-android.support.v4.app.FragmentTransition$FragmentContainerTransition -> android.support.v4.a.r$a:
+android.support.v4.app.FragmentTransition$FragmentContainerTransition -> android.support.v4.a.s$a:
     android.support.v4.app.Fragment lastIn -> a
     boolean lastInIsPop -> b
     android.support.v4.app.BackStackRecord lastInTransaction -> c
@@ -4023,7 +4032,7 @@ android.support.v4.app.FragmentTransition$FragmentContainerTransition -> android
     boolean firstOutIsPop -> e
     android.support.v4.app.BackStackRecord firstOutTransaction -> f
     void <init>() -> <init>
-android.support.v4.app.FragmentTransitionCompat21 -> android.support.v4.a.s:
+android.support.v4.app.FragmentTransitionCompat21 -> android.support.v4.a.t:
     java.lang.Object cloneTransition(java.lang.Object) -> a
     void setSharedElementTargets(java.lang.Object,android.view.View,java.util.ArrayList) -> a
     boolean containedBeforeIndex(java.util.List,android.view.View,int) -> a
@@ -4041,11 +4050,11 @@ android.support.v4.app.FragmentTransitionCompat21 -> android.support.v4.a.s:
     void swapSharedElementTargets(java.lang.Object,java.util.ArrayList,java.util.ArrayList) -> a
     void replaceTargets(java.lang.Object,java.util.ArrayList,java.util.ArrayList) -> b
     void setEpicenter(java.lang.Object,android.graphics.Rect) -> a
-android.support.v4.app.FragmentTransitionCompat21$1 -> android.support.v4.a.s$1:
+android.support.v4.app.FragmentTransitionCompat21$1 -> android.support.v4.a.t$1:
     android.graphics.Rect val$epicenter -> a
     void <init>(android.graphics.Rect) -> <init>
     android.graphics.Rect onGetEpicenter(android.transition.Transition) -> onGetEpicenter
-android.support.v4.app.FragmentTransitionCompat21$2 -> android.support.v4.a.s$2:
+android.support.v4.app.FragmentTransitionCompat21$2 -> android.support.v4.a.t$2:
     android.view.View val$fragmentView -> a
     java.util.ArrayList val$exitingViews -> b
     void <init>(android.view.View,java.util.ArrayList) -> <init>
@@ -4054,7 +4063,7 @@ android.support.v4.app.FragmentTransitionCompat21$2 -> android.support.v4.a.s$2:
     void onTransitionCancel(android.transition.Transition) -> onTransitionCancel
     void onTransitionPause(android.transition.Transition) -> onTransitionPause
     void onTransitionResume(android.transition.Transition) -> onTransitionResume
-android.support.v4.app.FragmentTransitionCompat21$3 -> android.support.v4.a.s$3:
+android.support.v4.app.FragmentTransitionCompat21$3 -> android.support.v4.a.t$3:
     int val$numSharedElements -> a
     java.util.ArrayList val$sharedElementsIn -> b
     java.util.ArrayList val$inNames -> c
@@ -4062,12 +4071,12 @@ android.support.v4.app.FragmentTransitionCompat21$3 -> android.support.v4.a.s$3:
     java.util.ArrayList val$outNames -> e
     void <init>(int,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList,java.util.ArrayList) -> <init>
     void run() -> run
-android.support.v4.app.FragmentTransitionCompat21$4 -> android.support.v4.a.s$4:
+android.support.v4.app.FragmentTransitionCompat21$4 -> android.support.v4.a.t$4:
     java.util.ArrayList val$sharedElementsIn -> a
     java.util.Map val$nameOverrides -> b
     void <init>(java.util.ArrayList,java.util.Map) -> <init>
     void run() -> run
-android.support.v4.app.FragmentTransitionCompat21$5 -> android.support.v4.a.s$5:
+android.support.v4.app.FragmentTransitionCompat21$5 -> android.support.v4.a.t$5:
     java.lang.Object val$enterTransition -> a
     java.util.ArrayList val$enteringViews -> b
     java.lang.Object val$exitTransition -> c
@@ -4080,20 +4089,20 @@ android.support.v4.app.FragmentTransitionCompat21$5 -> android.support.v4.a.s$5:
     void onTransitionCancel(android.transition.Transition) -> onTransitionCancel
     void onTransitionPause(android.transition.Transition) -> onTransitionPause
     void onTransitionResume(android.transition.Transition) -> onTransitionResume
-android.support.v4.app.FragmentTransitionCompat21$6 -> android.support.v4.a.s$6:
+android.support.v4.app.FragmentTransitionCompat21$6 -> android.support.v4.a.t$6:
     android.graphics.Rect val$epicenter -> a
     void <init>(android.graphics.Rect) -> <init>
     android.graphics.Rect onGetEpicenter(android.transition.Transition) -> onGetEpicenter
-android.support.v4.app.FragmentTransitionCompat21$7 -> android.support.v4.a.s$7:
+android.support.v4.app.FragmentTransitionCompat21$7 -> android.support.v4.a.t$7:
     java.util.ArrayList val$sharedElementsIn -> a
     java.util.Map val$nameOverrides -> b
     void <init>(java.util.ArrayList,java.util.Map) -> <init>
     void run() -> run
-android.support.v4.app.LoaderManager -> android.support.v4.a.t:
+android.support.v4.app.LoaderManager -> android.support.v4.a.u:
     boolean hasRunningLoaders() -> a
-android.support.v4.app.LoaderManager$LoaderCallbacks -> android.support.v4.a.t$a:
+android.support.v4.app.LoaderManager$LoaderCallbacks -> android.support.v4.a.u$a:
     android.support.v4.content.Loader onCreateLoader$e57f803() -> a
-android.support.v4.app.LoaderManagerImpl -> android.support.v4.a.u:
+android.support.v4.app.LoaderManagerImpl -> android.support.v4.a.v:
     boolean DEBUG -> a
     android.support.v4.util.SparseArrayCompat mLoaders -> b
     android.support.v4.util.SparseArrayCompat mInactiveLoaders -> c
@@ -4111,7 +4120,7 @@ android.support.v4.app.LoaderManagerImpl -> android.support.v4.a.u:
     void dump$ec96877$79f041d6(java.lang.String,java.io.PrintWriter) -> a
     boolean hasRunningLoaders() -> a
     void <clinit>() -> <clinit>
-android.support.v4.app.LoaderManagerImpl$LoaderInfo -> android.support.v4.a.u$a:
+android.support.v4.app.LoaderManagerImpl$LoaderInfo -> android.support.v4.a.v$a:
     int mId -> a
     android.os.Bundle mArgs -> b
     android.support.v4.app.LoaderManager$LoaderCallbacks mCallbacks -> c
@@ -4132,7 +4141,7 @@ android.support.v4.app.LoaderManagerImpl$LoaderInfo -> android.support.v4.a.u$a:
     void callOnLoadFinished(android.support.v4.content.Loader,java.lang.Object) -> a
     java.lang.String toString() -> toString
     void dump$ec96877$79f041d6(java.lang.String,java.io.PrintWriter) -> a
-android.support.v4.app.NavUtils -> android.support.v4.a.v:
+android.support.v4.app.NavUtils -> android.support.v4.a.w:
     android.support.v4.app.NavUtils$NavUtilsImpl IMPL -> a
     boolean shouldUpRecreateTask(android.app.Activity,android.content.Intent) -> a
     void navigateUpTo(android.app.Activity,android.content.Intent) -> b
@@ -4141,24 +4150,24 @@ android.support.v4.app.NavUtils -> android.support.v4.a.v:
     java.lang.String getParentActivityName(android.app.Activity) -> b
     java.lang.String getParentActivityName(android.content.Context,android.content.ComponentName) -> b
     void <clinit>() -> <clinit>
-android.support.v4.app.NavUtils$NavUtilsImpl -> android.support.v4.a.v$a:
+android.support.v4.app.NavUtils$NavUtilsImpl -> android.support.v4.a.w$a:
     android.content.Intent getParentActivityIntent(android.app.Activity) -> a
     boolean shouldUpRecreateTask(android.app.Activity,android.content.Intent) -> a
     void navigateUpTo(android.app.Activity,android.content.Intent) -> b
     java.lang.String getParentActivityName(android.content.Context,android.content.pm.ActivityInfo) -> a
-android.support.v4.app.NavUtils$NavUtilsImplBase -> android.support.v4.a.v$b:
+android.support.v4.app.NavUtils$NavUtilsImplBase -> android.support.v4.a.w$b:
     void <init>() -> <init>
     android.content.Intent getParentActivityIntent(android.app.Activity) -> a
     boolean shouldUpRecreateTask(android.app.Activity,android.content.Intent) -> a
     void navigateUpTo(android.app.Activity,android.content.Intent) -> b
     java.lang.String getParentActivityName(android.content.Context,android.content.pm.ActivityInfo) -> a
-android.support.v4.app.NavUtils$NavUtilsImplJB -> android.support.v4.a.v$c:
+android.support.v4.app.NavUtils$NavUtilsImplJB -> android.support.v4.a.w$c:
     void <init>() -> <init>
     android.content.Intent getParentActivityIntent(android.app.Activity) -> a
     boolean shouldUpRecreateTask(android.app.Activity,android.content.Intent) -> a
     void navigateUpTo(android.app.Activity,android.content.Intent) -> b
     java.lang.String getParentActivityName(android.content.Context,android.content.pm.ActivityInfo) -> a
-android.support.v4.app.OneShotPreDrawListener -> android.support.v4.a.w:
+android.support.v4.app.OneShotPreDrawListener -> android.support.v4.a.x:
     android.view.View mView -> a
     android.view.ViewTreeObserver mViewTreeObserver -> b
     java.lang.Runnable mRunnable -> c
@@ -4168,15 +4177,15 @@ android.support.v4.app.OneShotPreDrawListener -> android.support.v4.a.w:
     void removeListener() -> a
     void onViewAttachedToWindow(android.view.View) -> onViewAttachedToWindow
     void onViewDetachedFromWindow(android.view.View) -> onViewDetachedFromWindow
-android.support.v4.app.SharedElementCallback -> android.support.v4.a.x:
+android.support.v4.app.SharedElementCallback -> android.support.v4.a.y:
     int MAX_IMAGE_SIZE -> a
     void <clinit>() -> <clinit>
-android.support.v4.app.SuperNotCalledException -> android.support.v4.a.y:
+android.support.v4.app.SuperNotCalledException -> android.support.v4.a.z:
     void <init>(java.lang.String) -> <init>
-android.support.v4.app.SupportActivity -> android.support.v4.a.z:
+android.support.v4.app.SupportActivity -> android.support.v4.a.aa:
     android.support.v4.util.SimpleArrayMap mExtraDataMap -> a
     void <init>() -> <init>
-android.support.v4.app.TaskStackBuilder -> android.support.v4.a.aa:
+android.support.v4.app.TaskStackBuilder -> android.support.v4.a.ab:
     android.support.v4.app.TaskStackBuilder$TaskStackBuilderBaseImpl IMPL -> c
     java.util.ArrayList mIntents -> a
     android.content.Context mSourceContext -> b
@@ -4185,11 +4194,11 @@ android.support.v4.app.TaskStackBuilder -> android.support.v4.a.aa:
     android.support.v4.app.TaskStackBuilder addParentStack(android.content.ComponentName) -> a
     java.util.Iterator iterator() -> iterator
     void <clinit>() -> <clinit>
-android.support.v4.app.TaskStackBuilder$SupportParentable -> android.support.v4.a.aa$a:
+android.support.v4.app.TaskStackBuilder$SupportParentable -> android.support.v4.a.ab$a:
     android.content.Intent getSupportParentActivityIntent() -> a
-android.support.v4.app.TaskStackBuilder$TaskStackBuilderApi16Impl -> android.support.v4.a.aa$b:
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderApi16Impl -> android.support.v4.a.ab$b:
     void <init>() -> <init>
-android.support.v4.app.TaskStackBuilder$TaskStackBuilderBaseImpl -> android.support.v4.a.aa$c:
+android.support.v4.app.TaskStackBuilder$TaskStackBuilderBaseImpl -> android.support.v4.a.ab$c:
     void <init>() -> <init>
 android.support.v4.content.ContextCompat -> android.support.v4.b.a:
     java.lang.Object sLock -> a
@@ -4198,6 +4207,7 @@ android.support.v4.content.ContextCompat -> android.support.v4.b.a:
     android.graphics.drawable.Drawable getDrawable(android.content.Context,int) -> a
     android.content.res.ColorStateList getColorStateList(android.content.Context,int) -> b
     int getColor(android.content.Context,int) -> c
+    int checkSelfPermission(android.content.Context,java.lang.String) -> a
     void <clinit>() -> <clinit>
 android.support.v4.content.Loader -> android.support.v4.b.b:
     int mId -> a
@@ -6411,7 +6421,7 @@ android.support.v7.app.ActionBarDrawerToggle$Delegate -> android.support.v7.app.
     android.content.Context getActionBarThemedContext() -> b
     boolean isNavigationVisible() -> c
 android.support.v7.app.ActionBarDrawerToggle$DelegateProvider -> android.support.v7.app.b$b:
-    android.support.v7.app.ActionBarDrawerToggle$Delegate getDrawerToggleDelegate() -> c
+    android.support.v7.app.ActionBarDrawerToggle$Delegate getDrawerToggleDelegate() -> b
 android.support.v7.app.ActionBarDrawerToggle$DummyDelegate -> android.support.v7.app.b$c:
     android.app.Activity mActivity -> a
     void <init>(android.app.Activity) -> <init>
@@ -6633,10 +6643,10 @@ android.support.v7.app.AlertDialog$Builder -> android.support.v7.app.d$a:
     void <init>(android.content.Context,int) -> <init>
     android.support.v7.app.AlertDialog create() -> a
 android.support.v7.app.AppCompatActivity -> android.support.v7.app.e:
-    android.support.v7.app.AppCompatDelegate mDelegate -> l
-    int mThemeId -> m
-    boolean mEatKeyUpEvent -> n
-    android.content.res.Resources mResources -> o
+    android.support.v7.app.AppCompatDelegate mDelegate -> m
+    int mThemeId -> n
+    boolean mEatKeyUpEvent -> o
+    android.content.res.Resources mResources -> p
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
     void setTheme(int) -> setTheme
@@ -6655,12 +6665,12 @@ android.support.v7.app.AppCompatActivity -> android.support.v7.app.e:
     boolean onMenuItemSelected(int,android.view.MenuItem) -> onMenuItemSelected
     void onDestroy() -> onDestroy
     void onTitleChanged(java.lang.CharSequence,int) -> onTitleChanged
-    void supportInvalidateOptionsMenu() -> b
+    void supportInvalidateOptionsMenu() -> c
     void invalidateOptionsMenu() -> invalidateOptionsMenu
     boolean onSupportNavigateUp() -> e
     android.content.Intent getSupportParentActivityIntent() -> a
     void onContentChanged() -> onContentChanged
-    android.support.v7.app.ActionBarDrawerToggle$Delegate getDrawerToggleDelegate() -> c
+    android.support.v7.app.ActionBarDrawerToggle$Delegate getDrawerToggleDelegate() -> b
     boolean onMenuOpened(int,android.view.Menu) -> onMenuOpened
     void onPanelClosed(int,android.view.Menu) -> onPanelClosed
     void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
@@ -8252,8 +8262,6 @@ android.support.v7.appcompat.R$style -> android.support.v7.a.a$i:
     int Widget_AppCompat_Toolbar_Button_Navigation -> Widget_AppCompat_Toolbar_Button_Navigation
 android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int[] ActionBar -> ActionBar
-    int[] ActionBarLayout -> ActionBarLayout
-    int ActionBarLayout_android_layout_gravity -> ActionBarLayout_android_layout_gravity
     int ActionBar_background -> ActionBar_background
     int ActionBar_backgroundSplit -> ActionBar_backgroundSplit
     int ActionBar_backgroundStacked -> ActionBar_backgroundStacked
@@ -8283,6 +8291,8 @@ android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int ActionBar_subtitleTextStyle -> ActionBar_subtitleTextStyle
     int ActionBar_title -> ActionBar_title
     int ActionBar_titleTextStyle -> ActionBar_titleTextStyle
+    int[] ActionBarLayout -> ActionBarLayout
+    int ActionBarLayout_android_layout_gravity -> ActionBarLayout_android_layout_gravity
     int[] ActionMenuItemView -> ActionMenuItemView
     int ActionMenuItemView_android_minWidth -> ActionMenuItemView_android_minWidth
     int[] ActionMenuView -> ActionMenuView
@@ -8313,17 +8323,19 @@ android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int AppCompatSeekBar_tickMarkTint -> AppCompatSeekBar_tickMarkTint
     int AppCompatSeekBar_tickMarkTintMode -> AppCompatSeekBar_tickMarkTintMode
     int[] AppCompatTextHelper -> AppCompatTextHelper
+    int AppCompatTextHelper_android_textAppearance -> AppCompatTextHelper_android_textAppearance
+    int AppCompatTextHelper_android_drawableTop -> AppCompatTextHelper_android_drawableTop
     int AppCompatTextHelper_android_drawableBottom -> AppCompatTextHelper_android_drawableBottom
-    int AppCompatTextHelper_android_drawableEnd -> AppCompatTextHelper_android_drawableEnd
     int AppCompatTextHelper_android_drawableLeft -> AppCompatTextHelper_android_drawableLeft
     int AppCompatTextHelper_android_drawableRight -> AppCompatTextHelper_android_drawableRight
     int AppCompatTextHelper_android_drawableStart -> AppCompatTextHelper_android_drawableStart
-    int AppCompatTextHelper_android_drawableTop -> AppCompatTextHelper_android_drawableTop
-    int AppCompatTextHelper_android_textAppearance -> AppCompatTextHelper_android_textAppearance
+    int AppCompatTextHelper_android_drawableEnd -> AppCompatTextHelper_android_drawableEnd
     int[] AppCompatTextView -> AppCompatTextView
     int AppCompatTextView_android_textAppearance -> AppCompatTextView_android_textAppearance
     int AppCompatTextView_textAllCaps -> AppCompatTextView_textAllCaps
     int[] AppCompatTheme -> AppCompatTheme
+    int AppCompatTheme_android_windowIsFloating -> AppCompatTheme_android_windowIsFloating
+    int AppCompatTheme_android_windowAnimationStyle -> AppCompatTheme_android_windowAnimationStyle
     int AppCompatTheme_actionBarDivider -> AppCompatTheme_actionBarDivider
     int AppCompatTheme_actionBarItemBackground -> AppCompatTheme_actionBarItemBackground
     int AppCompatTheme_actionBarPopupTheme -> AppCompatTheme_actionBarPopupTheme
@@ -8359,8 +8371,6 @@ android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int AppCompatTheme_alertDialogCenterButtons -> AppCompatTheme_alertDialogCenterButtons
     int AppCompatTheme_alertDialogStyle -> AppCompatTheme_alertDialogStyle
     int AppCompatTheme_alertDialogTheme -> AppCompatTheme_alertDialogTheme
-    int AppCompatTheme_android_windowAnimationStyle -> AppCompatTheme_android_windowAnimationStyle
-    int AppCompatTheme_android_windowIsFloating -> AppCompatTheme_android_windowIsFloating
     int AppCompatTheme_autoCompleteTextViewStyle -> AppCompatTheme_autoCompleteTextViewStyle
     int AppCompatTheme_borderlessButtonStyle -> AppCompatTheme_borderlessButtonStyle
     int AppCompatTheme_buttonBarButtonStyle -> AppCompatTheme_buttonBarButtonStyle
@@ -8442,9 +8452,9 @@ android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int[] ButtonBarLayout -> ButtonBarLayout
     int ButtonBarLayout_allowStacking -> ButtonBarLayout_allowStacking
     int[] ColorStateListItem -> ColorStateListItem
-    int ColorStateListItem_alpha -> ColorStateListItem_alpha
-    int ColorStateListItem_android_alpha -> ColorStateListItem_android_alpha
     int ColorStateListItem_android_color -> ColorStateListItem_android_color
+    int ColorStateListItem_android_alpha -> ColorStateListItem_android_alpha
+    int ColorStateListItem_alpha -> ColorStateListItem_alpha
     int[] CompoundButton -> CompoundButton
     int CompoundButton_android_button -> CompoundButton_android_button
     int CompoundButton_buttonTint -> CompoundButton_buttonTint
@@ -8459,74 +8469,74 @@ android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int DrawerArrowToggle_spinBars -> DrawerArrowToggle_spinBars
     int DrawerArrowToggle_thickness -> DrawerArrowToggle_thickness
     int[] LinearLayoutCompat -> LinearLayoutCompat
-    int[] LinearLayoutCompat_Layout -> LinearLayoutCompat_Layout
-    int LinearLayoutCompat_Layout_android_layout_gravity -> LinearLayoutCompat_Layout_android_layout_gravity
-    int LinearLayoutCompat_Layout_android_layout_height -> LinearLayoutCompat_Layout_android_layout_height
-    int LinearLayoutCompat_Layout_android_layout_weight -> LinearLayoutCompat_Layout_android_layout_weight
-    int LinearLayoutCompat_Layout_android_layout_width -> LinearLayoutCompat_Layout_android_layout_width
-    int LinearLayoutCompat_android_baselineAligned -> LinearLayoutCompat_android_baselineAligned
-    int LinearLayoutCompat_android_baselineAlignedChildIndex -> LinearLayoutCompat_android_baselineAlignedChildIndex
     int LinearLayoutCompat_android_gravity -> LinearLayoutCompat_android_gravity
     int LinearLayoutCompat_android_orientation -> LinearLayoutCompat_android_orientation
+    int LinearLayoutCompat_android_baselineAligned -> LinearLayoutCompat_android_baselineAligned
+    int LinearLayoutCompat_android_baselineAlignedChildIndex -> LinearLayoutCompat_android_baselineAlignedChildIndex
     int LinearLayoutCompat_android_weightSum -> LinearLayoutCompat_android_weightSum
     int LinearLayoutCompat_divider -> LinearLayoutCompat_divider
     int LinearLayoutCompat_dividerPadding -> LinearLayoutCompat_dividerPadding
     int LinearLayoutCompat_measureWithLargestChild -> LinearLayoutCompat_measureWithLargestChild
     int LinearLayoutCompat_showDividers -> LinearLayoutCompat_showDividers
+    int[] LinearLayoutCompat_Layout -> LinearLayoutCompat_Layout
+    int LinearLayoutCompat_Layout_android_layout_gravity -> LinearLayoutCompat_Layout_android_layout_gravity
+    int LinearLayoutCompat_Layout_android_layout_width -> LinearLayoutCompat_Layout_android_layout_width
+    int LinearLayoutCompat_Layout_android_layout_height -> LinearLayoutCompat_Layout_android_layout_height
+    int LinearLayoutCompat_Layout_android_layout_weight -> LinearLayoutCompat_Layout_android_layout_weight
     int[] ListPopupWindow -> ListPopupWindow
     int ListPopupWindow_android_dropDownHorizontalOffset -> ListPopupWindow_android_dropDownHorizontalOffset
     int ListPopupWindow_android_dropDownVerticalOffset -> ListPopupWindow_android_dropDownVerticalOffset
     int[] MenuGroup -> MenuGroup
-    int MenuGroup_android_checkableBehavior -> MenuGroup_android_checkableBehavior
     int MenuGroup_android_enabled -> MenuGroup_android_enabled
     int MenuGroup_android_id -> MenuGroup_android_id
+    int MenuGroup_android_visible -> MenuGroup_android_visible
     int MenuGroup_android_menuCategory -> MenuGroup_android_menuCategory
     int MenuGroup_android_orderInCategory -> MenuGroup_android_orderInCategory
-    int MenuGroup_android_visible -> MenuGroup_android_visible
+    int MenuGroup_android_checkableBehavior -> MenuGroup_android_checkableBehavior
     int[] MenuItem -> MenuItem
-    int MenuItem_actionLayout -> MenuItem_actionLayout
-    int MenuItem_actionProviderClass -> MenuItem_actionProviderClass
-    int MenuItem_actionViewClass -> MenuItem_actionViewClass
-    int MenuItem_android_alphabeticShortcut -> MenuItem_android_alphabeticShortcut
-    int MenuItem_android_checkable -> MenuItem_android_checkable
-    int MenuItem_android_checked -> MenuItem_android_checked
-    int MenuItem_android_enabled -> MenuItem_android_enabled
     int MenuItem_android_icon -> MenuItem_android_icon
+    int MenuItem_android_enabled -> MenuItem_android_enabled
     int MenuItem_android_id -> MenuItem_android_id
+    int MenuItem_android_checked -> MenuItem_android_checked
+    int MenuItem_android_visible -> MenuItem_android_visible
     int MenuItem_android_menuCategory -> MenuItem_android_menuCategory
-    int MenuItem_android_numericShortcut -> MenuItem_android_numericShortcut
-    int MenuItem_android_onClick -> MenuItem_android_onClick
     int MenuItem_android_orderInCategory -> MenuItem_android_orderInCategory
     int MenuItem_android_title -> MenuItem_android_title
     int MenuItem_android_titleCondensed -> MenuItem_android_titleCondensed
-    int MenuItem_android_visible -> MenuItem_android_visible
+    int MenuItem_android_alphabeticShortcut -> MenuItem_android_alphabeticShortcut
+    int MenuItem_android_numericShortcut -> MenuItem_android_numericShortcut
+    int MenuItem_android_checkable -> MenuItem_android_checkable
+    int MenuItem_android_onClick -> MenuItem_android_onClick
+    int MenuItem_actionLayout -> MenuItem_actionLayout
+    int MenuItem_actionProviderClass -> MenuItem_actionProviderClass
+    int MenuItem_actionViewClass -> MenuItem_actionViewClass
     int MenuItem_contentDescription -> MenuItem_contentDescription
     int MenuItem_showAsAction -> MenuItem_showAsAction
     int MenuItem_tooltipText -> MenuItem_tooltipText
     int[] MenuView -> MenuView
-    int MenuView_android_headerBackground -> MenuView_android_headerBackground
+    int MenuView_android_windowAnimationStyle -> MenuView_android_windowAnimationStyle
+    int MenuView_android_itemTextAppearance -> MenuView_android_itemTextAppearance
     int MenuView_android_horizontalDivider -> MenuView_android_horizontalDivider
+    int MenuView_android_verticalDivider -> MenuView_android_verticalDivider
+    int MenuView_android_headerBackground -> MenuView_android_headerBackground
     int MenuView_android_itemBackground -> MenuView_android_itemBackground
     int MenuView_android_itemIconDisabledAlpha -> MenuView_android_itemIconDisabledAlpha
-    int MenuView_android_itemTextAppearance -> MenuView_android_itemTextAppearance
-    int MenuView_android_verticalDivider -> MenuView_android_verticalDivider
-    int MenuView_android_windowAnimationStyle -> MenuView_android_windowAnimationStyle
     int MenuView_preserveIconSpacing -> MenuView_preserveIconSpacing
     int MenuView_subMenuArrow -> MenuView_subMenuArrow
     int[] PopupWindow -> PopupWindow
+    int PopupWindow_android_popupBackground -> PopupWindow_android_popupBackground
+    int PopupWindow_android_popupAnimationStyle -> PopupWindow_android_popupAnimationStyle
+    int PopupWindow_overlapAnchor -> PopupWindow_overlapAnchor
     int[] PopupWindowBackgroundState -> PopupWindowBackgroundState
     int PopupWindowBackgroundState_state_above_anchor -> PopupWindowBackgroundState_state_above_anchor
-    int PopupWindow_android_popupAnimationStyle -> PopupWindow_android_popupAnimationStyle
-    int PopupWindow_android_popupBackground -> PopupWindow_android_popupBackground
-    int PopupWindow_overlapAnchor -> PopupWindow_overlapAnchor
     int[] RecycleListView -> RecycleListView
     int RecycleListView_paddingBottomNoButtons -> RecycleListView_paddingBottomNoButtons
     int RecycleListView_paddingTopNoTitle -> RecycleListView_paddingTopNoTitle
     int[] SearchView -> SearchView
     int SearchView_android_focusable -> SearchView_android_focusable
-    int SearchView_android_imeOptions -> SearchView_android_imeOptions
-    int SearchView_android_inputType -> SearchView_android_inputType
     int SearchView_android_maxWidth -> SearchView_android_maxWidth
+    int SearchView_android_inputType -> SearchView_android_inputType
+    int SearchView_android_imeOptions -> SearchView_android_imeOptions
     int SearchView_closeIcon -> SearchView_closeIcon
     int SearchView_commitIcon -> SearchView_commitIcon
     int SearchView_defaultQueryHint -> SearchView_defaultQueryHint
@@ -8541,14 +8551,14 @@ android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int SearchView_suggestionRowLayout -> SearchView_suggestionRowLayout
     int SearchView_voiceIcon -> SearchView_voiceIcon
     int[] Spinner -> Spinner
-    int Spinner_android_dropDownWidth -> Spinner_android_dropDownWidth
     int Spinner_android_entries -> Spinner_android_entries
     int Spinner_android_popupBackground -> Spinner_android_popupBackground
     int Spinner_android_prompt -> Spinner_android_prompt
+    int Spinner_android_dropDownWidth -> Spinner_android_dropDownWidth
     int Spinner_popupTheme -> Spinner_popupTheme
     int[] SwitchCompat -> SwitchCompat
-    int SwitchCompat_android_textOff -> SwitchCompat_android_textOff
     int SwitchCompat_android_textOn -> SwitchCompat_android_textOn
+    int SwitchCompat_android_textOff -> SwitchCompat_android_textOff
     int SwitchCompat_android_thumb -> SwitchCompat_android_thumb
     int SwitchCompat_showText -> SwitchCompat_showText
     int SwitchCompat_splitTrack -> SwitchCompat_splitTrack
@@ -8562,15 +8572,15 @@ android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int SwitchCompat_trackTint -> SwitchCompat_trackTint
     int SwitchCompat_trackTintMode -> SwitchCompat_trackTintMode
     int[] TextAppearance -> TextAppearance
+    int TextAppearance_android_textSize -> TextAppearance_android_textSize
+    int TextAppearance_android_typeface -> TextAppearance_android_typeface
+    int TextAppearance_android_textStyle -> TextAppearance_android_textStyle
+    int TextAppearance_android_textColor -> TextAppearance_android_textColor
+    int TextAppearance_android_textColorHint -> TextAppearance_android_textColorHint
     int TextAppearance_android_shadowColor -> TextAppearance_android_shadowColor
     int TextAppearance_android_shadowDx -> TextAppearance_android_shadowDx
     int TextAppearance_android_shadowDy -> TextAppearance_android_shadowDy
     int TextAppearance_android_shadowRadius -> TextAppearance_android_shadowRadius
-    int TextAppearance_android_textColor -> TextAppearance_android_textColor
-    int TextAppearance_android_textColorHint -> TextAppearance_android_textColorHint
-    int TextAppearance_android_textSize -> TextAppearance_android_textSize
-    int TextAppearance_android_textStyle -> TextAppearance_android_textStyle
-    int TextAppearance_android_typeface -> TextAppearance_android_typeface
     int TextAppearance_textAllCaps -> TextAppearance_textAllCaps
     int[] Toolbar -> Toolbar
     int Toolbar_android_gravity -> Toolbar_android_gravity
@@ -8603,19 +8613,19 @@ android.support.v7.appcompat.R$styleable -> android.support.v7.a.a$j:
     int Toolbar_titleTextAppearance -> Toolbar_titleTextAppearance
     int Toolbar_titleTextColor -> Toolbar_titleTextColor
     int[] View -> View
+    int View_android_theme -> View_android_theme
+    int View_android_focusable -> View_android_focusable
+    int View_paddingEnd -> View_paddingEnd
+    int View_paddingStart -> View_paddingStart
+    int View_theme -> View_theme
     int[] ViewBackgroundHelper -> ViewBackgroundHelper
     int ViewBackgroundHelper_android_background -> ViewBackgroundHelper_android_background
     int ViewBackgroundHelper_backgroundTint -> ViewBackgroundHelper_backgroundTint
     int ViewBackgroundHelper_backgroundTintMode -> ViewBackgroundHelper_backgroundTintMode
     int[] ViewStubCompat -> ViewStubCompat
     int ViewStubCompat_android_id -> ViewStubCompat_android_id
-    int ViewStubCompat_android_inflatedId -> ViewStubCompat_android_inflatedId
     int ViewStubCompat_android_layout -> ViewStubCompat_android_layout
-    int View_android_focusable -> View_android_focusable
-    int View_android_theme -> View_android_theme
-    int View_paddingEnd -> View_paddingEnd
-    int View_paddingStart -> View_paddingStart
-    int View_theme -> View_theme
+    int ViewStubCompat_android_inflatedId -> ViewStubCompat_android_inflatedId
     void <clinit>() -> <clinit>
 android.support.v7.cardview.R -> android.support.v7.b.a:
 android.support.v7.cardview.R$color -> android.support.v7.b.a$a:
@@ -8634,8 +8644,8 @@ android.support.v7.cardview.R$style -> android.support.v7.b.a$c:
     int CardView_Light -> CardView_Light
 android.support.v7.cardview.R$styleable -> android.support.v7.b.a$d:
     int[] CardView -> CardView
-    int CardView_android_minHeight -> CardView_android_minHeight
     int CardView_android_minWidth -> CardView_android_minWidth
+    int CardView_android_minHeight -> CardView_android_minHeight
     int CardView_cardBackgroundColor -> CardView_cardBackgroundColor
     int CardView_cardCornerRadius -> CardView_cardCornerRadius
     int CardView_cardElevation -> CardView_cardElevation
@@ -8739,8 +8749,8 @@ android.support.v7.recyclerview.R$dimen -> android.support.v7.e.a$a:
     int item_touch_helper_swipe_escape_velocity -> item_touch_helper_swipe_escape_velocity
 android.support.v7.recyclerview.R$styleable -> android.support.v7.e.a$b:
     int[] RecyclerView -> RecyclerView
-    int RecyclerView_android_descendantFocusability -> RecyclerView_android_descendantFocusability
     int RecyclerView_android_orientation -> RecyclerView_android_orientation
+    int RecyclerView_android_descendantFocusability -> RecyclerView_android_descendantFocusability
     int RecyclerView_fastScrollEnabled -> RecyclerView_fastScrollEnabled
     int RecyclerView_fastScrollHorizontalThumbDrawable -> RecyclerView_fastScrollHorizontalThumbDrawable
     int RecyclerView_fastScrollHorizontalTrackDrawable -> RecyclerView_fastScrollHorizontalTrackDrawable
@@ -13288,10 +13298,10 @@ android.support.v7.widget.ViewUtils -> android.support.v7.widget.br:
     void makeOptionalFitsSystemWindows(android.view.View) -> b
     void <clinit>() -> <clinit>
 com.boostermbkking.kingrommods.v2.AboutActivity -> com.boostermbkking.kingrommods.v2.AboutActivity:
-    java.lang.Integer[] mContactUsIds -> m
-    java.lang.Integer[] mTeamIds -> n
-    java.lang.Integer[] mCreditsIds -> o
-    boolean $assertionsDisabled -> l
+    java.lang.Integer[] mContactUsIds -> n
+    java.lang.Integer[] mTeamIds -> o
+    java.lang.Integer[] mCreditsIds -> p
+    boolean $assertionsDisabled -> m
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
     void setUpCreditsItems() -> e
@@ -13300,14 +13310,16 @@ com.boostermbkking.kingrommods.v2.AboutActivity -> com.boostermbkking.kingrommod
     void onClick(android.view.View) -> onClick
     void <clinit>() -> <clinit>
 com.boostermbkking.kingrommods.v2.MainActivity -> com.boostermbkking.kingrommods.v2.MainActivity:
-    android.app.ProgressDialog mProgressDialog -> n
-    android.app.FragmentManager mFragmentManager -> o
-    android.content.SharedPreferences mSharedPreferences -> p
-    java.util.ArrayList mNavMenuItemsIds -> q
-    boolean KS8pro -> l
-    boolean $assertionsDisabled -> m
+    android.app.ProgressDialog mProgressDialog -> p
+    android.app.FragmentManager mFragmentManager -> q
+    android.content.SharedPreferences mSharedPreferences -> r
+    java.util.ArrayList mNavMenuItemsIds -> s
+    com.karan.churi.PermissionManager.PermissionManager permissionManager -> m
+    boolean KS8pro -> n
+    boolean $assertionsDisabled -> o
     void <init>() -> <init>
     void onCreate(android.os.Bundle) -> onCreate
+    void onRequestPermissionsResult(int,java.lang.String[],int[]) -> onRequestPermissionsResult
     boolean appInstalledOrNot(java.lang.String) -> a
     void setUpPrefsMenu(android.view.Menu) -> a
     void onBackPressed() -> onBackPressed
@@ -13326,8 +13338,11 @@ com.boostermbkking.kingrommods.v2.MainActivity -> com.boostermbkking.kingrommods
 com.boostermbkking.kingrommods.v2.MainActivity$1 -> com.boostermbkking.kingrommods.v2.MainActivity$1:
     com.boostermbkking.kingrommods.v2.MainActivity this$0 -> a
     void <init>(com.boostermbkking.kingrommods.v2.MainActivity) -> <init>
-    void onClick(android.content.DialogInterface,int) -> onClick
 com.boostermbkking.kingrommods.v2.MainActivity$2 -> com.boostermbkking.kingrommods.v2.MainActivity$2:
+    com.boostermbkking.kingrommods.v2.MainActivity this$0 -> a
+    void <init>(com.boostermbkking.kingrommods.v2.MainActivity) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.boostermbkking.kingrommods.v2.MainActivity$3 -> com.boostermbkking.kingrommods.v2.MainActivity$3:
     com.boostermbkking.kingrommods.v2.MainActivity this$0 -> a
     void <init>(com.boostermbkking.kingrommods.v2.MainActivity) -> <init>
     void onClick(android.content.DialogInterface,int) -> onClick
@@ -13430,17 +13445,19 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int AppCompatSeekBar_tickMarkTint -> AppCompatSeekBar_tickMarkTint
     int AppCompatSeekBar_tickMarkTintMode -> AppCompatSeekBar_tickMarkTintMode
     int[] AppCompatTextHelper -> AppCompatTextHelper
+    int AppCompatTextHelper_android_textAppearance -> AppCompatTextHelper_android_textAppearance
+    int AppCompatTextHelper_android_drawableTop -> AppCompatTextHelper_android_drawableTop
     int AppCompatTextHelper_android_drawableBottom -> AppCompatTextHelper_android_drawableBottom
-    int AppCompatTextHelper_android_drawableEnd -> AppCompatTextHelper_android_drawableEnd
     int AppCompatTextHelper_android_drawableLeft -> AppCompatTextHelper_android_drawableLeft
     int AppCompatTextHelper_android_drawableRight -> AppCompatTextHelper_android_drawableRight
     int AppCompatTextHelper_android_drawableStart -> AppCompatTextHelper_android_drawableStart
-    int AppCompatTextHelper_android_drawableTop -> AppCompatTextHelper_android_drawableTop
-    int AppCompatTextHelper_android_textAppearance -> AppCompatTextHelper_android_textAppearance
+    int AppCompatTextHelper_android_drawableEnd -> AppCompatTextHelper_android_drawableEnd
     int[] AppCompatTextView -> AppCompatTextView
     int AppCompatTextView_android_textAppearance -> AppCompatTextView_android_textAppearance
     int AppCompatTextView_textAllCaps -> AppCompatTextView_textAllCaps
     int[] AppCompatTheme -> AppCompatTheme
+    int AppCompatTheme_android_windowIsFloating -> AppCompatTheme_android_windowIsFloating
+    int AppCompatTheme_android_windowAnimationStyle -> AppCompatTheme_android_windowAnimationStyle
     int AppCompatTheme_actionBarDivider -> AppCompatTheme_actionBarDivider
     int AppCompatTheme_actionBarItemBackground -> AppCompatTheme_actionBarItemBackground
     int AppCompatTheme_actionBarPopupTheme -> AppCompatTheme_actionBarPopupTheme
@@ -13476,8 +13493,6 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int AppCompatTheme_alertDialogCenterButtons -> AppCompatTheme_alertDialogCenterButtons
     int AppCompatTheme_alertDialogStyle -> AppCompatTheme_alertDialogStyle
     int AppCompatTheme_alertDialogTheme -> AppCompatTheme_alertDialogTheme
-    int AppCompatTheme_android_windowAnimationStyle -> AppCompatTheme_android_windowAnimationStyle
-    int AppCompatTheme_android_windowIsFloating -> AppCompatTheme_android_windowIsFloating
     int AppCompatTheme_autoCompleteTextViewStyle -> AppCompatTheme_autoCompleteTextViewStyle
     int AppCompatTheme_borderlessButtonStyle -> AppCompatTheme_borderlessButtonStyle
     int AppCompatTheme_buttonBarButtonStyle -> AppCompatTheme_buttonBarButtonStyle
@@ -13569,8 +13584,8 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int[] ButtonBarLayout -> ButtonBarLayout
     int ButtonBarLayout_allowStacking -> ButtonBarLayout_allowStacking
     int[] CardView -> CardView
-    int CardView_android_minHeight -> CardView_android_minHeight
     int CardView_android_minWidth -> CardView_android_minWidth
+    int CardView_android_minHeight -> CardView_android_minHeight
     int CardView_cardBackgroundColor -> CardView_cardBackgroundColor
     int CardView_cardCornerRadius -> CardView_cardCornerRadius
     int CardView_cardElevation -> CardView_cardElevation
@@ -13608,9 +13623,9 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int CollapsingToolbarLayout_Layout_layout_collapseMode -> CollapsingToolbarLayout_Layout_layout_collapseMode
     int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier -> CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
     int[] ColorStateListItem -> ColorStateListItem
-    int ColorStateListItem_alpha -> ColorStateListItem_alpha
-    int ColorStateListItem_android_alpha -> ColorStateListItem_android_alpha
     int ColorStateListItem_android_color -> ColorStateListItem_android_color
+    int ColorStateListItem_android_alpha -> ColorStateListItem_android_alpha
+    int ColorStateListItem_alpha -> ColorStateListItem_alpha
     int[] CompoundButton -> CompoundButton
     int CompoundButton_android_button -> CompoundButton_android_button
     int CompoundButton_buttonTint -> CompoundButton_buttonTint
@@ -13664,10 +13679,10 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int IntentDialogPreference_intentSeparator -> IntentDialogPreference_intentSeparator
     int IntentDialogPreference_showSearch -> IntentDialogPreference_showSearch
     int[] LinearLayoutCompat -> LinearLayoutCompat
-    int LinearLayoutCompat_android_baselineAligned -> LinearLayoutCompat_android_baselineAligned
-    int LinearLayoutCompat_android_baselineAlignedChildIndex -> LinearLayoutCompat_android_baselineAlignedChildIndex
     int LinearLayoutCompat_android_gravity -> LinearLayoutCompat_android_gravity
     int LinearLayoutCompat_android_orientation -> LinearLayoutCompat_android_orientation
+    int LinearLayoutCompat_android_baselineAligned -> LinearLayoutCompat_android_baselineAligned
+    int LinearLayoutCompat_android_baselineAlignedChildIndex -> LinearLayoutCompat_android_baselineAlignedChildIndex
     int LinearLayoutCompat_android_weightSum -> LinearLayoutCompat_android_weightSum
     int LinearLayoutCompat_divider -> LinearLayoutCompat_divider
     int LinearLayoutCompat_dividerPadding -> LinearLayoutCompat_dividerPadding
@@ -13675,47 +13690,47 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int LinearLayoutCompat_showDividers -> LinearLayoutCompat_showDividers
     int[] LinearLayoutCompat_Layout -> LinearLayoutCompat_Layout
     int LinearLayoutCompat_Layout_android_layout_gravity -> LinearLayoutCompat_Layout_android_layout_gravity
+    int LinearLayoutCompat_Layout_android_layout_width -> LinearLayoutCompat_Layout_android_layout_width
     int LinearLayoutCompat_Layout_android_layout_height -> LinearLayoutCompat_Layout_android_layout_height
     int LinearLayoutCompat_Layout_android_layout_weight -> LinearLayoutCompat_Layout_android_layout_weight
-    int LinearLayoutCompat_Layout_android_layout_width -> LinearLayoutCompat_Layout_android_layout_width
     int[] ListPopupWindow -> ListPopupWindow
     int ListPopupWindow_android_dropDownHorizontalOffset -> ListPopupWindow_android_dropDownHorizontalOffset
     int ListPopupWindow_android_dropDownVerticalOffset -> ListPopupWindow_android_dropDownVerticalOffset
     int[] MenuGroup -> MenuGroup
-    int MenuGroup_android_checkableBehavior -> MenuGroup_android_checkableBehavior
     int MenuGroup_android_enabled -> MenuGroup_android_enabled
     int MenuGroup_android_id -> MenuGroup_android_id
+    int MenuGroup_android_visible -> MenuGroup_android_visible
     int MenuGroup_android_menuCategory -> MenuGroup_android_menuCategory
     int MenuGroup_android_orderInCategory -> MenuGroup_android_orderInCategory
-    int MenuGroup_android_visible -> MenuGroup_android_visible
+    int MenuGroup_android_checkableBehavior -> MenuGroup_android_checkableBehavior
     int[] MenuItem -> MenuItem
-    int MenuItem_actionLayout -> MenuItem_actionLayout
-    int MenuItem_actionProviderClass -> MenuItem_actionProviderClass
-    int MenuItem_actionViewClass -> MenuItem_actionViewClass
-    int MenuItem_android_alphabeticShortcut -> MenuItem_android_alphabeticShortcut
-    int MenuItem_android_checkable -> MenuItem_android_checkable
-    int MenuItem_android_checked -> MenuItem_android_checked
-    int MenuItem_android_enabled -> MenuItem_android_enabled
     int MenuItem_android_icon -> MenuItem_android_icon
+    int MenuItem_android_enabled -> MenuItem_android_enabled
     int MenuItem_android_id -> MenuItem_android_id
+    int MenuItem_android_checked -> MenuItem_android_checked
+    int MenuItem_android_visible -> MenuItem_android_visible
     int MenuItem_android_menuCategory -> MenuItem_android_menuCategory
-    int MenuItem_android_numericShortcut -> MenuItem_android_numericShortcut
-    int MenuItem_android_onClick -> MenuItem_android_onClick
     int MenuItem_android_orderInCategory -> MenuItem_android_orderInCategory
     int MenuItem_android_title -> MenuItem_android_title
     int MenuItem_android_titleCondensed -> MenuItem_android_titleCondensed
-    int MenuItem_android_visible -> MenuItem_android_visible
+    int MenuItem_android_alphabeticShortcut -> MenuItem_android_alphabeticShortcut
+    int MenuItem_android_numericShortcut -> MenuItem_android_numericShortcut
+    int MenuItem_android_checkable -> MenuItem_android_checkable
+    int MenuItem_android_onClick -> MenuItem_android_onClick
+    int MenuItem_actionLayout -> MenuItem_actionLayout
+    int MenuItem_actionProviderClass -> MenuItem_actionProviderClass
+    int MenuItem_actionViewClass -> MenuItem_actionViewClass
     int MenuItem_contentDescription -> MenuItem_contentDescription
     int MenuItem_showAsAction -> MenuItem_showAsAction
     int MenuItem_tooltipText -> MenuItem_tooltipText
     int[] MenuView -> MenuView
-    int MenuView_android_headerBackground -> MenuView_android_headerBackground
+    int MenuView_android_windowAnimationStyle -> MenuView_android_windowAnimationStyle
+    int MenuView_android_itemTextAppearance -> MenuView_android_itemTextAppearance
     int MenuView_android_horizontalDivider -> MenuView_android_horizontalDivider
+    int MenuView_android_verticalDivider -> MenuView_android_verticalDivider
+    int MenuView_android_headerBackground -> MenuView_android_headerBackground
     int MenuView_android_itemBackground -> MenuView_android_itemBackground
     int MenuView_android_itemIconDisabledAlpha -> MenuView_android_itemIconDisabledAlpha
-    int MenuView_android_itemTextAppearance -> MenuView_android_itemTextAppearance
-    int MenuView_android_verticalDivider -> MenuView_android_verticalDivider
-    int MenuView_android_windowAnimationStyle -> MenuView_android_windowAnimationStyle
     int MenuView_preserveIconSpacing -> MenuView_preserveIconSpacing
     int MenuView_subMenuArrow -> MenuView_subMenuArrow
     int[] MultipleChoicePreference -> MultipleChoicePreference
@@ -13746,8 +13761,8 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int[] OpenAppPreference -> OpenAppPreference
     int OpenAppPreference_componentName -> OpenAppPreference_componentName
     int[] PopupWindow -> PopupWindow
-    int PopupWindow_android_popupAnimationStyle -> PopupWindow_android_popupAnimationStyle
     int PopupWindow_android_popupBackground -> PopupWindow_android_popupBackground
+    int PopupWindow_android_popupAnimationStyle -> PopupWindow_android_popupAnimationStyle
     int PopupWindow_overlapAnchor -> PopupWindow_overlapAnchor
     int[] PopupWindowBackgroundState -> PopupWindowBackgroundState
     int PopupWindowBackgroundState_state_above_anchor -> PopupWindowBackgroundState_state_above_anchor
@@ -13764,8 +13779,8 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int RecycleListView_paddingBottomNoButtons -> RecycleListView_paddingBottomNoButtons
     int RecycleListView_paddingTopNoTitle -> RecycleListView_paddingTopNoTitle
     int[] RecyclerView -> RecyclerView
-    int RecyclerView_android_descendantFocusability -> RecyclerView_android_descendantFocusability
     int RecyclerView_android_orientation -> RecyclerView_android_orientation
+    int RecyclerView_android_descendantFocusability -> RecyclerView_android_descendantFocusability
     int RecyclerView_fastScrollEnabled -> RecyclerView_fastScrollEnabled
     int RecyclerView_fastScrollHorizontalThumbDrawable -> RecyclerView_fastScrollHorizontalThumbDrawable
     int RecyclerView_fastScrollHorizontalTrackDrawable -> RecyclerView_fastScrollHorizontalTrackDrawable
@@ -13785,9 +13800,9 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int ScrollingViewBehavior_Layout_behavior_overlapTop -> ScrollingViewBehavior_Layout_behavior_overlapTop
     int[] SearchView -> SearchView
     int SearchView_android_focusable -> SearchView_android_focusable
-    int SearchView_android_imeOptions -> SearchView_android_imeOptions
-    int SearchView_android_inputType -> SearchView_android_inputType
     int SearchView_android_maxWidth -> SearchView_android_maxWidth
+    int SearchView_android_inputType -> SearchView_android_inputType
+    int SearchView_android_imeOptions -> SearchView_android_imeOptions
     int SearchView_closeIcon -> SearchView_closeIcon
     int SearchView_commitIcon -> SearchView_commitIcon
     int SearchView_defaultQueryHint -> SearchView_defaultQueryHint
@@ -13806,14 +13821,14 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int SnackbarLayout_elevation -> SnackbarLayout_elevation
     int SnackbarLayout_maxActionInlineWidth -> SnackbarLayout_maxActionInlineWidth
     int[] Spinner -> Spinner
-    int Spinner_android_dropDownWidth -> Spinner_android_dropDownWidth
     int Spinner_android_entries -> Spinner_android_entries
     int Spinner_android_popupBackground -> Spinner_android_popupBackground
     int Spinner_android_prompt -> Spinner_android_prompt
+    int Spinner_android_dropDownWidth -> Spinner_android_dropDownWidth
     int Spinner_popupTheme -> Spinner_popupTheme
     int[] SwitchCompat -> SwitchCompat
-    int SwitchCompat_android_textOff -> SwitchCompat_android_textOff
     int SwitchCompat_android_textOn -> SwitchCompat_android_textOn
+    int SwitchCompat_android_textOff -> SwitchCompat_android_textOff
     int SwitchCompat_android_thumb -> SwitchCompat_android_thumb
     int SwitchCompat_showText -> SwitchCompat_showText
     int SwitchCompat_splitTrack -> SwitchCompat_splitTrack
@@ -13848,19 +13863,19 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int TabLayout_tabTextAppearance -> TabLayout_tabTextAppearance
     int TabLayout_tabTextColor -> TabLayout_tabTextColor
     int[] TextAppearance -> TextAppearance
+    int TextAppearance_android_textSize -> TextAppearance_android_textSize
+    int TextAppearance_android_typeface -> TextAppearance_android_typeface
+    int TextAppearance_android_textStyle -> TextAppearance_android_textStyle
+    int TextAppearance_android_textColor -> TextAppearance_android_textColor
+    int TextAppearance_android_textColorHint -> TextAppearance_android_textColorHint
     int TextAppearance_android_shadowColor -> TextAppearance_android_shadowColor
     int TextAppearance_android_shadowDx -> TextAppearance_android_shadowDx
     int TextAppearance_android_shadowDy -> TextAppearance_android_shadowDy
     int TextAppearance_android_shadowRadius -> TextAppearance_android_shadowRadius
-    int TextAppearance_android_textColor -> TextAppearance_android_textColor
-    int TextAppearance_android_textColorHint -> TextAppearance_android_textColorHint
-    int TextAppearance_android_textSize -> TextAppearance_android_textSize
-    int TextAppearance_android_textStyle -> TextAppearance_android_textStyle
-    int TextAppearance_android_typeface -> TextAppearance_android_typeface
     int TextAppearance_textAllCaps -> TextAppearance_textAllCaps
     int[] TextInputLayout -> TextInputLayout
-    int TextInputLayout_android_hint -> TextInputLayout_android_hint
     int TextInputLayout_android_textColorHint -> TextInputLayout_android_textColorHint
+    int TextInputLayout_android_hint -> TextInputLayout_android_hint
     int TextInputLayout_counterEnabled -> TextInputLayout_counterEnabled
     int TextInputLayout_counterMaxLength -> TextInputLayout_counterMaxLength
     int TextInputLayout_counterOverflowTextAppearance -> TextInputLayout_counterOverflowTextAppearance
@@ -13910,8 +13925,8 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int Toolbar_titleTextAppearance -> Toolbar_titleTextAppearance
     int Toolbar_titleTextColor -> Toolbar_titleTextColor
     int[] View -> View
-    int View_android_focusable -> View_android_focusable
     int View_android_theme -> View_android_theme
+    int View_android_focusable -> View_android_focusable
     int View_paddingEnd -> View_paddingEnd
     int View_paddingStart -> View_paddingStart
     int View_theme -> View_theme
@@ -13921,8 +13936,8 @@ com.boostermbkking.kingrommods.v2.R$styleable -> com.boostermbkking.kingrommods.
     int ViewBackgroundHelper_backgroundTintMode -> ViewBackgroundHelper_backgroundTintMode
     int[] ViewStubCompat -> ViewStubCompat
     int ViewStubCompat_android_id -> ViewStubCompat_android_id
-    int ViewStubCompat_android_inflatedId -> ViewStubCompat_android_inflatedId
     int ViewStubCompat_android_layout -> ViewStubCompat_android_layout
+    int ViewStubCompat_android_inflatedId -> ViewStubCompat_android_inflatedId
     void <clinit>() -> <clinit>
 com.boostermbkking.kingrommods.v2.prefs.AlphaPatternDrawable -> com.boostermbkking.kingrommods.v2.prefs.a:
     int mRectangleSize -> a
@@ -14460,7 +14475,17 @@ com.boostermbkking.kingrommods.v2.utils.Utils$2 -> com.boostermbkking.kingrommod
     void onClick(android.content.DialogInterface,int) -> onClick
 com.boostermbkking.kingrommods.v2.views.RebootView -> com.boostermbkking.kingrommods.v2.views.RebootView:
     void <init>(android.content.Context,android.util.AttributeSet) -> <init>
-com.stericson.RootShell.RootShell -> com.a.a.a:
+com.karan.churi.PermissionManager.PermissionManager -> com.a.a.a.a:
+    android.app.Activity activity -> b
+    void <init>() -> <init>
+    boolean checkAndRequestPermissions(android.app.Activity) -> a
+    java.util.List setPermission() -> a
+com.karan.churi.PermissionManager.PermissionManager$1 -> com.a.a.a.a$1:
+    android.app.Activity val$activity -> a
+    com.karan.churi.PermissionManager.PermissionManager this$0 -> b
+    void <init>(com.karan.churi.PermissionManager.PermissionManager,android.app.Activity) -> <init>
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.stericson.RootShell.RootShell -> com.b.a.a:
     boolean debugMode -> a
     boolean handlerEnabled -> b
     int defaultCommandTimeout -> c
@@ -14472,14 +14497,14 @@ com.stericson.RootShell.RootShell -> com.a.a.a:
     void log$296bf768(java.lang.String,java.lang.String,int,java.lang.Exception) -> a
     void commandWait(com.stericson.RootShell.execution.Shell,com.stericson.RootShell.execution.Command) -> a
     void <clinit>() -> <clinit>
-com.stericson.RootShell.RootShell$3 -> com.a.a.a$1:
+com.stericson.RootShell.RootShell$3 -> com.b.a.a$1:
     java.util.Set val$ID -> a
     void <init>(java.lang.String[],java.util.Set) -> <init>
     void commandOutput(int,java.lang.String) -> a
-com.stericson.RootShell.RootShell$4 -> com.a.a.a$2:
+com.stericson.RootShell.RootShell$4 -> com.b.a.a$2:
     int[] $SwitchMap$com$stericson$RootShell$RootShell$LogLevel -> a
     void <clinit>() -> <clinit>
-com.stericson.RootShell.RootShell$LogLevel -> com.a.a.a$a:
+com.stericson.RootShell.RootShell$LogLevel -> com.b.a.a$a:
     int VERBOSE$9b913e5 -> a
     int ERROR$9b913e5 -> b
     int DEBUG$9b913e5 -> c
@@ -14487,9 +14512,9 @@ com.stericson.RootShell.RootShell$LogLevel -> com.a.a.a$a:
     int[] $VALUES$de37c0 -> e
     int[] values$1019e05f() -> a
     void <clinit>() -> <clinit>
-com.stericson.RootShell.exceptions.RootDeniedException -> com.a.a.a.a:
+com.stericson.RootShell.exceptions.RootDeniedException -> com.b.a.a.a:
     void <init>(java.lang.String) -> <init>
-com.stericson.RootShell.execution.Command -> com.a.a.b.a:
+com.stericson.RootShell.execution.Command -> com.b.a.b.a:
     boolean javaCommand -> b
     android.content.Context context -> c
     int totalOutput -> d
@@ -14515,17 +14540,17 @@ com.stericson.RootShell.execution.Command -> com.a.a.b.a:
     void terminate(java.lang.String) -> a
     void terminated(java.lang.String) -> b
     void output(int,java.lang.String) -> b
-com.stericson.RootShell.execution.Command$CommandHandler -> com.a.a.b.a$a:
+com.stericson.RootShell.execution.Command$CommandHandler -> com.b.a.b.a$a:
     com.stericson.RootShell.execution.Command this$0 -> a
     void <init>(com.stericson.RootShell.execution.Command) -> <init>
     void handleMessage(android.os.Message) -> handleMessage
     void <init>(com.stericson.RootShell.execution.Command,byte) -> <init>
-com.stericson.RootShell.execution.Command$ExecutionMonitor -> com.a.a.b.a$b:
+com.stericson.RootShell.execution.Command$ExecutionMonitor -> com.b.a.b.a$b:
     com.stericson.RootShell.execution.Command this$0 -> a
     void <init>(com.stericson.RootShell.execution.Command) -> <init>
     void run() -> run
     void <init>(com.stericson.RootShell.execution.Command,byte) -> <init>
-com.stericson.RootShell.execution.Shell -> com.a.a.b.b:
+com.stericson.RootShell.execution.Shell -> com.b.a.b.b:
     com.stericson.RootShell.execution.Shell rootShell -> g
     com.stericson.RootShell.execution.Shell shell -> h
     com.stericson.RootShell.execution.Shell customShell -> i
@@ -14591,19 +14616,19 @@ com.stericson.RootShell.execution.Shell -> com.a.a.b.b:
     void access$1500$54e6ae89(java.io.Reader) -> a
     java.lang.String access$1602(com.stericson.RootShell.execution.Shell,java.lang.String) -> a
     void <clinit>() -> <clinit>
-com.stericson.RootShell.execution.Shell$1 -> com.a.a.b.b$1:
+com.stericson.RootShell.execution.Shell$1 -> com.b.a.b.b$1:
     com.stericson.RootShell.execution.Shell this$0 -> a
     void <init>(com.stericson.RootShell.execution.Shell) -> <init>
     void run() -> run
-com.stericson.RootShell.execution.Shell$2 -> com.a.a.b.b$2:
+com.stericson.RootShell.execution.Shell$2 -> com.b.a.b.b$2:
     com.stericson.RootShell.execution.Shell this$0 -> a
     void <init>(com.stericson.RootShell.execution.Shell) -> <init>
     void run() -> run
-com.stericson.RootShell.execution.Shell$3 -> com.a.a.b.b$3:
+com.stericson.RootShell.execution.Shell$3 -> com.b.a.b.b$3:
     com.stericson.RootShell.execution.Shell this$0 -> a
     void <init>(com.stericson.RootShell.execution.Shell) -> <init>
     void run() -> run
-com.stericson.RootShell.execution.Shell$ShellContext -> com.a.a.b.b$a:
+com.stericson.RootShell.execution.Shell$ShellContext -> com.b.a.b.b$a:
     com.stericson.RootShell.execution.Shell$ShellContext NORMAL -> a
     com.stericson.RootShell.execution.Shell$ShellContext SHELL -> b
     com.stericson.RootShell.execution.Shell$ShellContext SYSTEM_SERVER -> c
@@ -14617,19 +14642,19 @@ com.stericson.RootShell.execution.Shell$ShellContext -> com.a.a.b.b$a:
     com.stericson.RootShell.execution.Shell$ShellContext valueOf(java.lang.String) -> valueOf
     void <init>(java.lang.String,int,java.lang.String) -> <init>
     void <clinit>() -> <clinit>
-com.stericson.RootShell.execution.Shell$ShellType -> com.a.a.b.b$b:
+com.stericson.RootShell.execution.Shell$ShellType -> com.b.a.b.b$b:
     int NORMAL$497e07fc -> a
     int ROOT$497e07fc -> b
     int CUSTOM$497e07fc -> c
     int[] $VALUES$6a83183f -> d
     void <clinit>() -> <clinit>
-com.stericson.RootShell.execution.Shell$Worker -> com.a.a.b.b$c:
+com.stericson.RootShell.execution.Shell$Worker -> com.b.a.b.b$c:
     int exit -> a
     com.stericson.RootShell.execution.Shell shell -> b
     void <init>(com.stericson.RootShell.execution.Shell) -> <init>
     void run() -> run
     void <init>(com.stericson.RootShell.execution.Shell,byte) -> <init>
-com.stericson.RootTools.RootTools -> com.a.b.a:
+com.stericson.RootTools.RootTools -> com.b.b.a:
     com.stericson.RootTools.internal.RootToolsInternalMethods rim -> d
     boolean debugMode -> a
     boolean handlerEnabled -> b
@@ -14637,7 +14662,7 @@ com.stericson.RootTools.RootTools -> com.a.b.a:
     com.stericson.RootShell.execution.Shell getShell(boolean) -> a
     boolean isAccessGiven() -> a
     void <clinit>() -> <clinit>
-com.stericson.RootTools.internal.RootToolsInternalMethods -> com.a.b.a.a:
+com.stericson.RootTools.internal.RootToolsInternalMethods -> com.b.b.a.a:
 de.hdodenhof.circleimageview.CircleImageView -> de.hdodenhof.circleimageview.CircleImageView:
     android.widget.ImageView$ScaleType SCALE_TYPE -> a
     android.graphics.Bitmap$Config BITMAP_CONFIG -> b

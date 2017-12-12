@@ -1,20 +1,43 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-52:12
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\68a8470eff0e320966494d0c2adf8843\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1b25c82c24a7447c17ca37dbe336e72a\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\e8dfa1365ad224de527c7df1416ef926\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5cde1dd07b0f6ba49bc84bc586d3f542\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\70165eb492e0b8ec3be72067bdb680ca\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ecc8dd972150300c0fc85d97940d02df\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\56acbf0ce83bb5d55c80136bd0c56be5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\0c7c5b63f23b18b2fd225e86b5982d83\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\067ba236638a4f14297e2ef6c95c9b33\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3c08f6969d01a2930a6f0274918ed06a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\e7ca65226243bf8be398c201e96d2336\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\ed308c219ebddb1be218b805f8defc81\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\2272cab7697f9c4e7683662d675bade3\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
 		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:4:11-54
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:3:11-57
-	xmlns:android
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_SETTINGS
 ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:6:5-72
 	android:name
@@ -48,125 +71,176 @@ ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app
 	android:name
 		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:14:22-64
 application
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:16:5-50:19
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\boostermbkking\.android\build-cache\5733e52e7d5084690a6e400ecca5bca80acd4eb0\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\43b25cdae8fc7e36ae64649e32312f73f58a8175\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\089839cab508b514fb5736348306799ce9f1d6dc\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\bbb4f57e78fa51b4f1c4ddfecb5844616ebac3c4\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\21c38ca19271663f9de80c733008bc72582ca233\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\0777de570ddea9c253a147f21fb76824806b985e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\70b042f7b69998cca37e413e23395d2417d41f4a\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\db99aaefaf1848e1a2e427203d8fd156c1faa9d6\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\bf0a344fa9d7fb479dc73c29f1ea1ed1ce0f6535\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\ad94f55f69fb9dd0c6f3b8c99147c238986b280e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\460d0612ac6da3578dc8052e038c9ef13be2a0b9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\273ab5a3492aaa52b5ab4ff9c268e7618ab43e19\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\396a11aa68c3a32796f408ede1b9cbbf5b58ae33\output\AndroidManifest.xml:26:5-20
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:16:5-51:19
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\68a8470eff0e320966494d0c2adf8843\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\68a8470eff0e320966494d0c2adf8843\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:29:5-20
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1b25c82c24a7447c17ca37dbe336e72a\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1b25c82c24a7447c17ca37dbe336e72a\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\e8dfa1365ad224de527c7df1416ef926\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\e8dfa1365ad224de527c7df1416ef926\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5cde1dd07b0f6ba49bc84bc586d3f542\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5cde1dd07b0f6ba49bc84bc586d3f542\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\70165eb492e0b8ec3be72067bdb680ca\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\70165eb492e0b8ec3be72067bdb680ca\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ecc8dd972150300c0fc85d97940d02df\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ecc8dd972150300c0fc85d97940d02df\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\56acbf0ce83bb5d55c80136bd0c56be5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\56acbf0ce83bb5d55c80136bd0c56be5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\0c7c5b63f23b18b2fd225e86b5982d83\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\0c7c5b63f23b18b2fd225e86b5982d83\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3c08f6969d01a2930a6f0274918ed06a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3c08f6969d01a2930a6f0274918ed06a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\e7ca65226243bf8be398c201e96d2336\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\e7ca65226243bf8be398c201e96d2336\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\ed308c219ebddb1be218b805f8defc81\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\ed308c219ebddb1be218b805f8defc81\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\2272cab7697f9c4e7683662d675bade3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\2272cab7697f9c4e7683662d675bade3\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
 		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:20:9-41
-	android:supportsRtl
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:22:9-35
+	android:resizeableActivity
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:21:9-42
 	tools:ignore
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:24:9-48
-	android:allowBackup
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:25:9-48
+	android:largeHeap
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:22:9-33
 	android:icon
 		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:19:9-43
-	android:largeHeap
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:21:9-33
+	android:allowBackup
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:18:9-35
 	android:theme
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:23:9-44
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:17:9-63
 meta-data#com.samsung.android.sdk.multiwindow.penwindow.enable
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:25:9-110
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:26:9-110
 	android:value
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:25:88-108
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:26:88-108
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:25:20-87
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:26:20-87
 meta-data#com.sec.android.support.multiwindow
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:26:9-94
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:27:9-94
 	android:value
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:26:71-91
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:27:71-91
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:26:20-70
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:27:20-70
 activity#com.boostermbkking.kingrommods.v2.MainActivity
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:27:9-36:20
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:28:9-37:20
 	android:label
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:29:13-45
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:30:13-45
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:28:13-74
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:29:13-74
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:30:13-35:29
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:31:13-36:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:31:17-68
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:32:17-68
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:33:17-76
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:34:17-76
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:34:27-74
 category#android.intent.category.MULTIWINDOW_LAUNCHER
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:34:17-89
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:35:17-89
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:34:27-86
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:35:27-86
 activity#com.boostermbkking.kingrommods.v2.AboutActivity
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:37:9-40:20
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:38:9-41:20
 	android:parentActivityName
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:39:13-88
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:40:13-88
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:38:13-75
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:39:13-75
 service#com.boostermbkking.kingrommods.v2.utils.BackupRestoreIntentService
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:42:9-45:19
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:43:9-46:19
 	android:exported
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:44:13-37
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:43:13-94
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:44:13-94
 meta-data#android.max_aspect
-ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:47:9-49:35
+ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:48:9-50:35
 	android:value
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:49:13-32
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:50:13-32
 	android:name
-		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:48:13-46
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml:49:13-46
 uses-sdk
 INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\boostermbkking\.android\build-cache\5733e52e7d5084690a6e400ecca5bca80acd4eb0\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\43b25cdae8fc7e36ae64649e32312f73f58a8175\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\089839cab508b514fb5736348306799ce9f1d6dc\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\bbb4f57e78fa51b4f1c4ddfecb5844616ebac3c4\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\21c38ca19271663f9de80c733008bc72582ca233\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\9c0091f1ba27881dc1f15747ea5d5da6c057c247\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\0777de570ddea9c253a147f21fb76824806b985e\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\70b042f7b69998cca37e413e23395d2417d41f4a\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\db99aaefaf1848e1a2e427203d8fd156c1faa9d6\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\bf0a344fa9d7fb479dc73c29f1ea1ed1ce0f6535\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\ad94f55f69fb9dd0c6f3b8c99147c238986b280e\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\460d0612ac6da3578dc8052e038c9ef13be2a0b9\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\273ab5a3492aaa52b5ab4ff9c268e7618ab43e19\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\396a11aa68c3a32796f408ede1b9cbbf5b58ae33\output\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\68a8470eff0e320966494d0c2adf8843\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\68a8470eff0e320966494d0c2adf8843\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1b25c82c24a7447c17ca37dbe336e72a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1b25c82c24a7447c17ca37dbe336e72a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\e8dfa1365ad224de527c7df1416ef926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\e8dfa1365ad224de527c7df1416ef926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5cde1dd07b0f6ba49bc84bc586d3f542\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5cde1dd07b0f6ba49bc84bc586d3f542\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\70165eb492e0b8ec3be72067bdb680ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\70165eb492e0b8ec3be72067bdb680ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ecc8dd972150300c0fc85d97940d02df\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ecc8dd972150300c0fc85d97940d02df\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\56acbf0ce83bb5d55c80136bd0c56be5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\56acbf0ce83bb5d55c80136bd0c56be5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\0c7c5b63f23b18b2fd225e86b5982d83\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\0c7c5b63f23b18b2fd225e86b5982d83\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\067ba236638a4f14297e2ef6c95c9b33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\067ba236638a4f14297e2ef6c95c9b33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3c08f6969d01a2930a6f0274918ed06a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3c08f6969d01a2930a6f0274918ed06a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\e7ca65226243bf8be398c201e96d2336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\e7ca65226243bf8be398c201e96d2336\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\ed308c219ebddb1be218b805f8defc81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\ed308c219ebddb1be218b805f8defc81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\2272cab7697f9c4e7683662d675bade3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\2272cab7697f9c4e7683662d675bade3\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\43b25cdae8fc7e36ae64649e32312f73f58a8175\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\boostermbkking\StudioProjects\KingRom-S8-RomControl-v2.1\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\43b25cdae8fc7e36ae64649e32312f73f58a8175\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\089839cab508b514fb5736348306799ce9f1d6dc\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\bbb4f57e78fa51b4f1c4ddfecb5844616ebac3c4\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\21c38ca19271663f9de80c733008bc72582ca233\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\9c0091f1ba27881dc1f15747ea5d5da6c057c247\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\0777de570ddea9c253a147f21fb76824806b985e\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\70b042f7b69998cca37e413e23395d2417d41f4a\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\db99aaefaf1848e1a2e427203d8fd156c1faa9d6\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\bf0a344fa9d7fb479dc73c29f1ea1ed1ce0f6535\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\ad94f55f69fb9dd0c6f3b8c99147c238986b280e\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\460d0612ac6da3578dc8052e038c9ef13be2a0b9\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\273ab5a3492aaa52b5ab4ff9c268e7618ab43e19\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\396a11aa68c3a32796f408ede1b9cbbf5b58ae33\output\AndroidManifest.xml:22:5-24:41
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\ee5ca882bd0463e4af84d0511c201375\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\e8dfa1365ad224de527c7df1416ef926\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\e8dfa1365ad224de527c7df1416ef926\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5cde1dd07b0f6ba49bc84bc586d3f542\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5cde1dd07b0f6ba49bc84bc586d3f542\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\70165eb492e0b8ec3be72067bdb680ca\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\70165eb492e0b8ec3be72067bdb680ca\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ecc8dd972150300c0fc85d97940d02df\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ecc8dd972150300c0fc85d97940d02df\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\56acbf0ce83bb5d55c80136bd0c56be5\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\56acbf0ce83bb5d55c80136bd0c56be5\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\0c7c5b63f23b18b2fd225e86b5982d83\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\0c7c5b63f23b18b2fd225e86b5982d83\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\067ba236638a4f14297e2ef6c95c9b33\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\067ba236638a4f14297e2ef6c95c9b33\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3c08f6969d01a2930a6f0274918ed06a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3c08f6969d01a2930a6f0274918ed06a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\e7ca65226243bf8be398c201e96d2336\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\e7ca65226243bf8be398c201e96d2336\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\ed308c219ebddb1be218b805f8defc81\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\ed308c219ebddb1be218b805f8defc81\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\2272cab7697f9c4e7683662d675bade3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\2272cab7697f9c4e7683662d675bade3\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\43b25cdae8fc7e36ae64649e32312f73f58a8175\output\AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.android\build-cache\43b25cdae8fc7e36ae64649e32312f73f58a8175\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\boostermbkking\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\2257fa029aec7535352f58a263d9f0ff\AndroidManifest.xml:26:9-47

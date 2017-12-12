@@ -85,10 +85,29 @@
     <string name="supersuinfo">Gestisce permessi SU</string>
     <string name="Sound_Control">Gestore Suoni</string>
     <string name="soundmanager">Imposta i filtri audio della KING of NOUGAT</string>
+    <!-- POWER MENU -->
     <string name="POWER_OFF_TOGGLE">TOGGLE SPEGNIMENTO</string>
+    <string name="REBOOT_TOGGLE">TOGGLE RIAVVIO</string>
+    <string name="DOWNLOAD_MODE_TOGGLE">TOGGLE MODALITA\' DOWNLOAD</string>
+    <string name="QUICKREBOOT_MODE_TOGGLE">TOGGLE RIAVVIO VELOCE</string>
+    <string name="QUICKREBOOT_MODE_TOGGLETITLE">TOGGLE RIAVVIO VELOCE (Occorre KS8 PRO)</string>
+    <string name="TORCH_MODE_TOGGLETITLE">TOGGLE TORCIA (Occorre KS8 PRO)</string>
+    <string name="TORCH_MODE_TOGGLE">TOGGLE TORCIA</string>
+    <string name="SCREENRECORD_MODE_TOGGLETITLE">TOGGLE REGISTRA SCHERMO (Occorre KS8 PRO)</string>
+    <string name="SCREENRECORD_MODE_TOGGLE">TOGGLE REGISTRA SCHERMO</string>
+    <string name="SCREENSHOT_MODE_TOGGLETITLE">TOGGLE CATTURA SCHERMO (Occorre KS8 PRO)</string>
+    <string name="SCREENSHOT_MODE_TOGGLE">TOGGLE CATTURA SCHERMO</string>
+    <string name="ASSISTENT_MODE_TOGGLETITLE">TOGGLE ASSISTENTE (Occorre KS8 PRO)</string>
+    <string name="ASSISTENT_MODE_TOGGLE">TOGGLE ASSISTENTE</string>
+    <string name="DATA_MODE_TOGGLETITLE">TOGGLE DATI (Occorre KS8 PRO)</string>
+    <string name="DATA_MODE_TOGGLE">TOGGLE DATI</string>
+    <string name="FLY_MODE_TOGGLE">TOGGLE MODALITA\' AEREO</string>
+    <string name="MULTIUSERS_MODE_TOGGLE">MULTIUSERS TOGGLE</string>
     <string name="REBOOT_RECOVERY_TOGGLETITLE">TOGGLE RIAVVIO RECOVERY (Occorre KS8 PRO)</string>
     <string name="REBOOT_RECOVERY_TOGGLE">TOGGLE RIAVVIO RECOVERY</string>
     <string name="EMERGENCY_MODE_TOGGLE">TOGGLE MODALITA\' EMERGENZA</string>
+    <string name="SETTING_TOGGLE">TOGGLE IMPOSTAZIONI</string>
+    <!-- /POWER MENU -->
     <string name="USBPLUGINTITLE">ACCENSIONE SCHERMO DAL CONNETTORE USB (Occorre KS8 PRO)</string>
     <string name="USBPLUGIN">ACCENSIONE SCHERMO DAL CONNETTORE USB</string>
     <string name="USBPLUGINLITE">ACCENSIONE SCHERMO</string>
@@ -189,6 +208,15 @@
     <string name="Leftside">Lato sinistro</string>
     <string name="Center">Centro</string>
 
+    <string name="CustomLogoTitlePro">PREFERENZE LOGO PERSONALIZZATO (Occorre KS8 PRO)</string>
+    <string name="CustomLogoTitle">PREFERENZE LOGO PERSONALIZZATO</string>
+    <string name="WarningLogoSyze">Per Favore, Selezionare immagini minori di 1MB, Altrimenti ci saranno Lag</string>
+    <string name="CustomLogo">Logo Personalizzato</string>
+    <string name="LogoVisibility">Visibilit\à Logo</string>
+    <string name="CustomLogoType">Tipo di Logo Personalizzato</string>
+    <string name="SelectLogoFromGallery">Seleziona Logo dalla Galleria</string>
+    <string name="LogoColors">Colore Logo</string>
+
     <string name="Taponclock">Click sull\'orologio</string>
     <string name="Taponclockpro">Click sull\'orologio (Occorre KS8 PRO)</string>
     <string name="Taponclockapp">seleziona app al click</string>
@@ -252,4 +280,18 @@
     <string name="RemovecompletedfromTaskbar">Rimuovi dalla Lista delle app Recenti</string>
     <string name="removeTaskON">Rimuovi Task - Rimuovi dalla Lista delle app Recenti</string>
     <string name="removeTaskOFF">Mantieni Attivit\à - Mantieni nella Lista delle app Recenti</string>
+
+    <string name="StatusbarColors">Colori Barra di Stato</string>
+    <string name="StatusbarColorsGlobal">Colori Globali Barra di Stato</string>
+    <string name="StatusbarColorGlobal">Colore Globale Barra di Stato</string>
+    <string name="StatusbarClockColor">Colore Orologio Barra di Stato</string>
+    <string name="StatusbarWifiColor">Colore Wifi Barra di Stato</string>
+    <string name="StatusbarSignalColor">Colore Segnale Barra di Stato</string>
+    <string name="StatusbarMobileColor">Colore Mobile Barra di Stato</string>
+    <string name="StatusbarRoamingColor">Colore Roaming Barra di Stato</string>
+    <string name="StatusbarAirplaneColor">Colore Icona Aereo Barra di Stato</string>
+    <string name="StatusbarStatusColor">Colore Status Barra di Stato</string>
+    <string name="StatusbarNotificationColor">Colore Notifiche Barra di Stato</string>
+    <string name="StatusbarBatteryColor">Colore Batteria Barra di Stato</string>
+
 </resources>

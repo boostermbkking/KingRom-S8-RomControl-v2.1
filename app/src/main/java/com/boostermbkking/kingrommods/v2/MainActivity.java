@@ -10,6 +10,7 @@ import android.content.pm.PackageManager;
 import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
+import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -25,6 +26,7 @@ import com.boostermbkking.kingrommods.v2.utils.BackupRestoreIntentService;
 import com.boostermbkking.kingrommods.v2.utils.Constants;
 import com.boostermbkking.kingrommods.v2.utils.MyDialogFragment;
 import com.boostermbkking.kingrommods.v2.utils.SuTask;
+import com.karan.churi.PermissionManager.PermissionManager;
 
 import java.util.ArrayList;
 
@@ -52,6 +54,8 @@ public class MainActivity extends AppCompatActivity
     private FragmentManager mFragmentManager;
     private SharedPreferences mSharedPreferences;
     private ArrayList<Integer> mNavMenuItemsIds;
+
+    PermissionManager permissionManager;
 
     /** KS8pro boolean */
     public boolean KS8pro = false;
@@ -95,6 +99,15 @@ public class MainActivity extends AppCompatActivity
             Toast.makeText(getBaseContext(), getString(R.string.installKS8PRO), Toast.LENGTH_LONG).show();
 
         }
+
+        permissionManager = new PermissionManager() {};
+        permissionManager.checkAndRequestPermissions(this);
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        permissionManager.checkResult(requestCode,permissions,grantResults);
+
     }
 
     /** method to check if KS8 PRO app is installed */
